@@ -28,16 +28,11 @@ keywords:
               "ReAct", "Chain of Thought", "Tree of Thoughts",
               "Autonomous Agent", "Web Agent", "Embodied Agent",
               "Multi-Agent Systems", "Agentic Workflow", "Agent Planning"]
-
     "Time-Series Forecasting":
-        filters: ["Time Series Forecasting", "Time Series Prediction",
-              "Time Series Foundation Models", "Zero-shot Time Series",
+        filters: ["Time Series Foundation Models", "Zero-shot Time Series",
               "Long-term Time Series Forecasting", "Spatio-Temporal Forecasting",
               "Time Series Transformer", "Diffusion Models for Time Series"]
-
     "Unified Multi-Modal Models":
-        filters: ["Multimodal Large Language Models", "Vision-Language Models", "VLM",
-              "Unified Vision-Language Model", "Any-to-Any Models",
-              "Visual Question Answering", "VQA", "Image Captioning",
+        filters: ["Unified Vision-Language Model", "Any-to-Any Models", "Image Captioning",
               "Text-to-Image Generation", "Text-to-Video Generation",
               "Multimodal Pre-training", "Multimodal Alignment"]
