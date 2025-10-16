@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "Melmaphother"
+repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -12,9 +12,9 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/arxiv-daily.json'
+json_gitpage_path: './docs/arxiv-daily-web.json'
+json_wechat_path: './docs/arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -22,18 +22,22 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "LLM Agent":
+        filters: ["LLM Agent", "Language Agent", "AI Agent",
+              "Tool Use", "Tool Augmented", "Function Calling",
+              "ReAct", "Chain of Thought", "Tree of Thoughts",
+              "Autonomous Agent", "Web Agent", "Embodied Agent",
+              "Multi-Agent Systems", "Agentic Workflow", "Agent Planning"]
+
+    "Time-Series Forecasting":
+        filters: ["Time Series Forecasting", "Time Series Prediction",
+              "Time Series Foundation Models", "Zero-shot Time Series",
+              "Long-term Time Series Forecasting", "Spatio-Temporal Forecasting",
+              "Time Series Transformer", "Diffusion Models for Time Series"]
+
+    "Unified Multi-Modal Models":
+        filters: ["Multimodal Large Language Models", "Vision-Language Models", "VLM",
+              "Unified Vision-Language Model", "Any-to-Any Models",
+              "Visual Question Answering", "VQA", "Image Captioning",
+              "Text-to-Image Generation", "Text-to-Video Generation",
+              "Multimodal Pre-training", "Multimodal Alignment"]
