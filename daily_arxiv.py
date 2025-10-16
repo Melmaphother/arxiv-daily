@@ -125,15 +125,21 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
+            # r = requests.get(code_url).json()
+            # repo_url = None
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
+            # # TODO: not found, two more chances
             # else:
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
+
+            # Because of the PaperWithCode API issue, we've temporarily disabled the first layer.
+            repo_url = get_code_link(paper_title)
+            if repo_url is None:
+                repo_url = get_code_link(paper_key)
+            
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
@@ -198,15 +204,19 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
+                    # code_url = base_url + paper_id #TODO
+                    # r = requests.get(code_url).json()
+                    # Get paper_key
+                    paper_key = paper_id.split('v')[0]
+                    # Because of the PaperWithCode API issue, we've temporarily disabled the first layer.
                     repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+                    repo_url = get_code_link(paper_title)
+                    if repo_url is None:
+                        repo_url = get_code_link(paper_key)
+                    if repo_url is not None:
+                        new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                        json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
