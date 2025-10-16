@@ -1,0 +1,72 @@
+## Updated on 2025.10.16
+> Usage instructions: [here](./docs/README.md#usage)
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#llm-agent>LLM Agent</a></li>
+    <li><a href=#time-series-forecasting>Time-Series Forecasting</a></li>
+    <li><a href=#unified-multi-modal-models>Unified Multi-Modal Models</a></li>
+  </ol>
+</details>
+
+## LLM Agent
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2025-10-15**|**Reasoning in Space via Grounding in the World**|Yiming Chen et.al.|[2510.13800](http://arxiv.org/abs/2510.13800)|
+|**2025-10-15**|**Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs**|Yi Zhang et.al.|[2510.13795](http://arxiv.org/abs/2510.13795)|
+|**2025-10-15**|**GAPS: A Clinically Grounded, Automated Benchmark for Evaluating AI Clinicians**|Xiuyuan Chen et.al.|[2510.13734](http://arxiv.org/abs/2510.13734)|
+|**2025-10-15**|**From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails**|Ravi Pandya et.al.|[2510.13727](http://arxiv.org/abs/2510.13727)|
+|**2025-10-15**|**Training LLM Agents to Empower Humans**|Evan Ellis et.al.|[2510.13709](http://arxiv.org/abs/2510.13709)|
+|**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|Ruitao Feng et.al.|[2510.13558](http://arxiv.org/abs/2510.13558)|
+|**2025-10-15**|**In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers**|Avihay Cohen et.al.|[2510.13543](http://arxiv.org/abs/2510.13543)|
+|**2025-10-15**|**Confidence as a Reward: Transforming LLMs into Reward Models**|He Du et.al.|[2510.13501](http://arxiv.org/abs/2510.13501)|
+|**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
+|**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
+
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+
+## Time-Series Forecasting
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2025-10-15**|**Time Series Foundation Models: Benchmarking Challenges and Requirements**|Marcel Meyer et.al.|[2510.13654](http://arxiv.org/abs/2510.13654)|
+|**2025-10-14**|**CoRA: Covariate-Aware Adaptation of Time Series Foundation Models**|Guo Qin et.al.|[2510.12681](http://arxiv.org/abs/2510.12681)|
+|**2025-10-10**|**Synthetic Series-Symbol Data Generation for Time Series Foundation Models**|Wenxuan Wang et.al.|[2510.08445](http://arxiv.org/abs/2510.08445)|
+|**2025-10-08**|**A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking**|Gal Fadlon et.al.|[2510.06699](http://arxiv.org/abs/2510.06699)|
+|**2025-10-07**|**Test-Time Efficient Pretrained Model Portfolios for Time Series Forecasting**|Mert Kayaalp et.al.|[2510.06419](http://arxiv.org/abs/2510.06419)|
+|**2025-10-07**|**StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars**|Weijian Li et.al.|[2510.06200](http://arxiv.org/abs/2510.06200)|
+|**2025-10-04**|**THEMIS: Unlocking Pretrained Knowledge with Foundation Model Embeddings for Anomaly Detection in Time Series**|Yadav Mahesh Lorik et.al.|[2510.03911](http://arxiv.org/abs/2510.03911)|
+|**2025-10-03**|**TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning**|Fangxu Yu et.al.|[2510.03519](http://arxiv.org/abs/2510.03519)|
+|**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
+|**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
+
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+
+## Unified Multi-Modal Models
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2025-10-15**|**End-to-End Multi-Modal Diffusion Mamba**|Chunhao Lu et.al.|[2510.13253](http://arxiv.org/abs/2510.13253)|
+|**2025-10-14**|**Unifying Vision-Language Latents for Zero-label Image Caption Enhancement**|Sanghyun Byun et.al.|[2510.12931](http://arxiv.org/abs/2510.12931)|
+|**2025-10-14**|**HoneyBee: Data Recipes for Vision-Language Reasoners**|Hritik Bansal et.al.|[2510.12225](http://arxiv.org/abs/2510.12225)|
+|**2025-10-13**|**Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection**|Saroj Basnet et.al.|[2510.11852](http://arxiv.org/abs/2510.11852)|
+|**2025-10-13**|**CoDefend: Cross-Modal Collaborative Defense via Diffusion Purification and Prompt Optimization**|Fengling Zhu et.al.|[2510.11096](http://arxiv.org/abs/2510.11096)|
+|**2025-10-12**|**MARS-Sep: Multimodal-Aligned Reinforced Sound Separation**|Zihan Zhang et.al.|[2510.10509](http://arxiv.org/abs/2510.10509)|
+|**2025-10-10**|**Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning**|Junyuan Liu et.al.|[2510.09894](http://arxiv.org/abs/2510.09894)|
+|**2025-10-10**|**MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval**|Siyue Zhang et.al.|[2510.09510](http://arxiv.org/abs/2510.09510)|
+|**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
+|**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
+
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Melmaphother/arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Melmaphother/arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Melmaphother/arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Melmaphother/arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Melmaphother/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Melmaphother/arxiv-daily/issues
+
