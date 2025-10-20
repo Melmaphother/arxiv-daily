@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-17**|**PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction**|Simon Yu et.al.|[2510.15863](http://arxiv.org/abs/2510.15863)|
+|**2025-10-17**|**PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold**|Yi Wan et.al.|[2510.15862](http://arxiv.org/abs/2510.15862)|
+|**2025-10-17**|**AURA: An Agent Autonomy Risk Assessment Framework**|Lorenzo Satta Chiris et.al.|[2510.15739](http://arxiv.org/abs/2510.15739)|
+|**2025-10-17**|**Interact and React: Exploring Gender Patterns in Development and the Impact on Innovation and Robustness of a User Interface Tool**|Sian Brooke et.al.|[2510.15642](http://arxiv.org/abs/2510.15642)|
+|**2025-10-17**|**The Spark Effect: On Engineering Creative Diversity in Multi-Agent AI Systems**|Alexander Doudkin et.al.|[2510.15568](http://arxiv.org/abs/2510.15568)|
+|**2025-10-17**|**Latent Reasoning in LLMs as a Vocabulary-Space Superposition**|Jingcheng Deng et.al.|[2510.15522](http://arxiv.org/abs/2510.15522)|
+|**2025-10-17**|**SHARE: Scene-Human Aligned Reconstruction**|Joshua Li et.al.|[2510.15342](http://arxiv.org/abs/2510.15342)|
+|**2025-10-17**|**VERA-MH Concept Paper**|Luca Belli et.al.|[2510.15297](http://arxiv.org/abs/2510.15297)|
+|**2025-10-17**|**Exemplar-Guided Planing: Enhanced LLM Agent for KGQA**|Jingao Xu et.al.|[2510.15283](http://arxiv.org/abs/2510.15283)|
+|**2025-10-17**|**Experience-Driven Exploration for Efficient API-Free AI Agents**|Chenwei Tang et.al.|[2510.15259](http://arxiv.org/abs/2510.15259)|
 |**2025-10-15**|**Reasoning in Space via Grounding in the World**|Yiming Chen et.al.|[2510.13800](http://arxiv.org/abs/2510.13800)|
 |**2025-10-15**|**Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs**|Yi Zhang et.al.|[2510.13795](http://arxiv.org/abs/2510.13795)|
 |**2025-10-15**|**GAPS: A Clinically Grounded, Automated Benchmark for Evaluating AI Clinicians**|Xiuyuan Chen et.al.|[2510.13734](http://arxiv.org/abs/2510.13734)|
@@ -24,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-16**|**Generalist vs Specialist Time Series Foundation Models: Investigating Potential Emergent Behaviors in Assessing Human Health Using PPG Signals**|Saurabh Kataria et.al.|[2510.14254](http://arxiv.org/abs/2510.14254)|
 |**2025-10-15**|**Time Series Foundation Models: Benchmarking Challenges and Requirements**|Marcel Meyer et.al.|[2510.13654](http://arxiv.org/abs/2510.13654)|
 |**2025-10-14**|**CoRA: Covariate-Aware Adaptation of Time Series Foundation Models**|Guo Qin et.al.|[2510.12681](http://arxiv.org/abs/2510.12681)|
 |**2025-10-10**|**Synthetic Series-Symbol Data Generation for Time Series Foundation Models**|Wenxuan Wang et.al.|[2510.08445](http://arxiv.org/abs/2510.08445)|
@@ -39,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-16**|**Directional Reasoning Injection for Fine-Tuning MLLMs**|Chao Huang et.al.|[2510.15050](http://arxiv.org/abs/2510.15050)|
 |**2025-10-15**|**End-to-End Multi-Modal Diffusion Mamba**|Chunhao Lu et.al.|[2510.13253](http://arxiv.org/abs/2510.13253)|
 |**2025-10-14**|**Unifying Vision-Language Latents for Zero-label Image Caption Enhancement**|Sanghyun Byun et.al.|[2510.12931](http://arxiv.org/abs/2510.12931)|
 |**2025-10-14**|**HoneyBee: Data Recipes for Vision-Language Reasoners**|Hritik Bansal et.al.|[2510.12225](http://arxiv.org/abs/2510.12225)|
