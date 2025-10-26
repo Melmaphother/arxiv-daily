@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.10.21
+## Updated on 2025.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-23**|**Generative Reasoning Recommendation via LLMs**|Minjie Hong et.al.|[2510.20815](http://arxiv.org/abs/2510.20815)|
+|**2025-10-23**|**Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems**|Xi He et.al.|[2510.20728](http://arxiv.org/abs/2510.20728)|
+|**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Jing Bi et.al.|[2510.20696](http://arxiv.org/abs/2510.20696)|
+|**2025-10-23**|**Plan Then Retrieve: Reinforcement Learning-Guided Complex Reasoning over Knowledge Graphs**|Yanlin Song et.al.|[2510.20691](http://arxiv.org/abs/2510.20691)|
+|**2025-10-23**|**C-NAV: Towards Self-Evolving Continual Object Navigation in Open World**|Ming-Ming Yu et.al.|[2510.20685](http://arxiv.org/abs/2510.20685)|
+|**2025-10-23**|**EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence**|Ding Zou et.al.|[2510.20578](http://arxiv.org/abs/2510.20578)|
+|**2025-10-23**|**ARC-Encoder: learning compressed text representations for large language models**|Hippolyte Pilchen et.al.|[2510.20535](http://arxiv.org/abs/2510.20535)|
+|**2025-10-23**|**Large Language Models for Fault Localization: An Empirical Study**|YingJian Xiao et.al.|[2510.20521](http://arxiv.org/abs/2510.20521)|
+|**2025-10-23**|**Designing Intent Communication for Agent-Human Collaboration**|Yi Li et.al.|[2510.20409](http://arxiv.org/abs/2510.20409)|
+|**2025-10-23**|**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**|Chiyu Chen et.al.|[2510.20333](http://arxiv.org/abs/2510.20333)|
 |**2025-10-17**|**PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction**|Simon Yu et.al.|[2510.15863](http://arxiv.org/abs/2510.15863)|
 |**2025-10-17**|**PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold**|Yi Wan et.al.|[2510.15862](http://arxiv.org/abs/2510.15862)|
 |**2025-10-17**|**AURA: An Agent Autonomy Risk Assessment Framework**|Lorenzo Satta Chiris et.al.|[2510.15739](http://arxiv.org/abs/2510.15739)|
@@ -34,10 +44,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-21**|**QKCV Attention: Enhancing Time Series Forecasting with Static Categorical Embeddings for Both Lightweight and Pre-trained Foundation Models**|Hao Wang et.al.|[2510.20222](http://arxiv.org/abs/2510.20222)|
+|**2025-10-22**|**Foundation Model Forecasts: Form and Function**|Alvaro Perez-Diaz et.al.|[2510.19345](http://arxiv.org/abs/2510.19345)|
+|**2025-10-22**|**Understanding the Implicit Biases of Design Choices for Time Series Foundation Models**|Annan Yu et.al.|[2510.19236](http://arxiv.org/abs/2510.19236)|
+|**2025-10-17**|**Beyond Accuracy: Are Time Series Foundation Models Well-Calibrated?**|Coen Adler et.al.|[2510.16060](http://arxiv.org/abs/2510.16060)|
+|**2025-10-15**|**STAR: Boosting Time Series Foundation Models for Anomaly Detection through State-aware Adapter**|Hanyin Cheng et.al.|[2510.16014](http://arxiv.org/abs/2510.16014)|
 |**2025-10-16**|**Generalist vs Specialist Time Series Foundation Models: Investigating Potential Emergent Behaviors in Assessing Human Health Using PPG Signals**|Saurabh Kataria et.al.|[2510.14254](http://arxiv.org/abs/2510.14254)|
 |**2025-10-15**|**Time Series Foundation Models: Benchmarking Challenges and Requirements**|Marcel Meyer et.al.|[2510.13654](http://arxiv.org/abs/2510.13654)|
 |**2025-10-14**|**CoRA: Covariate-Aware Adaptation of Time Series Foundation Models**|Guo Qin et.al.|[2510.12681](http://arxiv.org/abs/2510.12681)|
-|**2025-10-10**|**Synthetic Series-Symbol Data Generation for Time Series Foundation Models**|Wenxuan Wang et.al.|[2510.08445](http://arxiv.org/abs/2510.08445)|
+|**2025-10-20**|**Synthetic Series-Symbol Data Generation for Time Series Foundation Models**|Wenxuan Wang et.al.|[2510.08445](http://arxiv.org/abs/2510.08445)|
 |**2025-10-08**|**A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking**|Gal Fadlon et.al.|[2510.06699](http://arxiv.org/abs/2510.06699)|
 |**2025-10-07**|**Test-Time Efficient Pretrained Model Portfolios for Time Series Forecasting**|Mert Kayaalp et.al.|[2510.06419](http://arxiv.org/abs/2510.06419)|
 |**2025-10-07**|**StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars**|Weijian Li et.al.|[2510.06200](http://arxiv.org/abs/2510.06200)|
@@ -50,6 +65,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-23**|**SheafAlign: A Sheaf-theoretic Framework for Decentralized Multimodal Alignment**|Abdulmomen Ghalkha et.al.|[2510.20540](http://arxiv.org/abs/2510.20540)|
+|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|
+|**2025-10-21**|**Beyond Single Models: Mitigating Multimodal Hallucinations via Adaptive Token Ensemble Decoding**|Jinlin Li et.al.|[2510.18321](http://arxiv.org/abs/2510.18321)|
+|**2025-10-21**|**UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding**|Da Zhang et.al.|[2510.18262](http://arxiv.org/abs/2510.18262)|
+|**2025-10-20**|**AFRICAPTION: Establishing a New Paradigm for Image Captioning in African Languages**|Mardiyyah Oduwole et.al.|[2510.17405](http://arxiv.org/abs/2510.17405)|
+|**2025-10-19**|**How Universal Are SAM2 Features?**|Masoud Khairi Atani et.al.|[2510.17051](http://arxiv.org/abs/2510.17051)|
+|**2025-10-19**|**Graph4MM: Weaving Multimodal Learning with Structural Information**|Xuying Ning et.al.|[2510.16990](http://arxiv.org/abs/2510.16990)|
+|**2025-10-18**|**FSAR-Cap: A Fine-Grained Two-Stage Annotated Dataset for SAR Image Captioning**|Jinqi Zhang et.al.|[2510.16394](http://arxiv.org/abs/2510.16394)|
+|**2025-10-18**|**QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models**|Yutong Wang et.al.|[2510.16292](http://arxiv.org/abs/2510.16292)|
 |**2025-10-16**|**Directional Reasoning Injection for Fine-Tuning MLLMs**|Chao Huang et.al.|[2510.15050](http://arxiv.org/abs/2510.15050)|
 |**2025-10-15**|**End-to-End Multi-Modal Diffusion Mamba**|Chunhao Lu et.al.|[2510.13253](http://arxiv.org/abs/2510.13253)|
 |**2025-10-14**|**Unifying Vision-Language Latents for Zero-label Image Caption Enhancement**|Sanghyun Byun et.al.|[2510.12931](http://arxiv.org/abs/2510.12931)|
