@@ -1,4 +1,4 @@
-## Updated on 2025.10.27
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**Scaling Latent Reasoning via Looped Language Models**|Rui-Jie Zhu et.al.|[2510.25741](http://arxiv.org/abs/2510.25741)|
+|**2025-10-29**|**The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution**|Junlong Li et.al.|[2510.25726](http://arxiv.org/abs/2510.25726)|
+|**2025-10-29**|**Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry**|Run Peng et.al.|[2510.25595](http://arxiv.org/abs/2510.25595)|
+|**2025-10-29**|**Standardization of Psychiatric Diagnoses -- Role of Fine-tuned LLM Consortium and OpenAI-gpt-oss Reasoning LLM Enabled Decision Support System**|Eranga Bandara et.al.|[2510.25588](http://arxiv.org/abs/2510.25588)|
+|**2025-10-29**|**Evaluating Learning Congestion control Schemes for LEO Constellations**|Mihai Mazilu et.al.|[2510.25498](http://arxiv.org/abs/2510.25498)|
+|**2025-10-29**|**What Challenges Do Developers Face in AI Agent Systems? An Empirical Study on Stack Overflow**|Ali Asgari et.al.|[2510.25423](http://arxiv.org/abs/2510.25423)|
+|**2025-10-29**|**CRMWeaver: Building Powerful Business Agent via Agentic RL and Shared Memories**|Yilong Lai et.al.|[2510.25333](http://arxiv.org/abs/2510.25333)|
+|**2025-10-29**|**StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA**|Yuhang Hu et.al.|[2510.25332](http://arxiv.org/abs/2510.25332)|
+|**2025-10-29**|**GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning**|Jiaqi Wu et.al.|[2510.25320](http://arxiv.org/abs/2510.25320)|
+|**2025-10-29**|**Parrot: A Training Pipeline Enhances Both Program CoT and Natural Language CoT for Reasoning**|Senjie Jin et.al.|[2510.25310](http://arxiv.org/abs/2510.25310)|
 |**2025-10-23**|**Generative Reasoning Recommendation via LLMs**|Minjie Hong et.al.|[2510.20815](http://arxiv.org/abs/2510.20815)|
 |**2025-10-23**|**Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems**|Xi He et.al.|[2510.20728](http://arxiv.org/abs/2510.20728)|
 |**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Jing Bi et.al.|[2510.20696](http://arxiv.org/abs/2510.20696)|
@@ -45,12 +55,15 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|
+|**2025-10-25**|**Monitoring State Transitions in Markovian Systems with Sampling Cost**|Kumar Saurav et.al.|[2510.22327](http://arxiv.org/abs/2510.22327)|
+|**2025-10-20**|**Xihe: Scalable Zero-Shot Time Series Learner Via Hierarchical Interleaved Block Attention**|Yinbo Sun et.al.|[2510.21795](http://arxiv.org/abs/2510.21795)|
 |**2025-10-21**|**QKCV Attention: Enhancing Time Series Forecasting with Static Categorical Embeddings for Both Lightweight and Pre-trained Foundation Models**|Hao Wang et.al.|[2510.20222](http://arxiv.org/abs/2510.20222)|
 |**2025-10-22**|**Foundation Model Forecasts: Form and Function**|Alvaro Perez-Diaz et.al.|[2510.19345](http://arxiv.org/abs/2510.19345)|
 |**2025-10-22**|**Understanding the Implicit Biases of Design Choices for Time Series Foundation Models**|Annan Yu et.al.|[2510.19236](http://arxiv.org/abs/2510.19236)|
@@ -68,12 +81,17 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**Transformers in Medicine: Improving Vision-Language Alignment for Medical Image Captioning**|Yogesh Thakku Suresh et.al.|[2510.25164](http://arxiv.org/abs/2510.25164)|
+|**2025-10-28**|**DualCap: Enhancing Lightweight Image Captioning via Dual Retrieval with Similar Scenes Visual Prompts**|Binbin Li et.al.|[2510.24813](http://arxiv.org/abs/2510.24813)|
+|**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Gabriel O. dos Santos et.al.|[2510.24331](http://arxiv.org/abs/2510.24331)|
+|**2025-10-26**|**SARCLIP: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery**|Qiwei Ma et.al.|[2510.22665](http://arxiv.org/abs/2510.22665)|
+|**2025-10-25**|**Top-Down Semantic Refinement for Image Captioning**|Jusheng Zhang et.al.|[2510.22391](http://arxiv.org/abs/2510.22391)|
 |**2025-10-23**|**SheafAlign: A Sheaf-theoretic Framework for Decentralized Multimodal Alignment**|Abdulmomen Ghalkha et.al.|[2510.20540](http://arxiv.org/abs/2510.20540)|
 |**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|
 |**2025-10-21**|**Beyond Single Models: Mitigating Multimodal Hallucinations via Adaptive Token Ensemble Decoding**|Jinlin Li et.al.|[2510.18321](http://arxiv.org/abs/2510.18321)|
@@ -95,7 +113,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
