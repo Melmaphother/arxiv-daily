@@ -1,4 +1,4 @@
-## Updated on 2025.10.31
+## Updated on 2025.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-30**|**Remote Labor Index: Measuring AI Automation of Remote Work**|Mantas Mazeika et.al.|[2510.26787](http://arxiv.org/abs/2510.26787)|
+|**2025-10-30**|**Clone Deterministic 3D Worlds with Geometrically-Regularized World Models**|Zaishuo Xia et.al.|[2510.26782](http://arxiv.org/abs/2510.26782)|
+|**2025-10-30**|**The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy**|William Overman et.al.|[2510.26752](http://arxiv.org/abs/2510.26752)|
+|**2025-10-30**|**Delegated Authorization for Agents Constrained to Semantic Task-to-Scope Matching**|Majed El Helou et.al.|[2510.26702](http://arxiv.org/abs/2510.26702)|
+|**2025-10-30**|**Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment**|Aylton Almeida et.al.|[2510.26699](http://arxiv.org/abs/2510.26699)|
+|**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|
+|**2025-10-30**|**A Multi-agent Large Language Model Framework to Automatically Assess Performance of a Clinical AI Triage Tool**|Adam E. Flanders et.al.|[2510.26498](http://arxiv.org/abs/2510.26498)|
+|**2025-10-30**|**Simulating and Experimenting with Social Media Mobilization Using LLM Agents**|Sadegh Shirani et.al.|[2510.26494](http://arxiv.org/abs/2510.26494)|
+|**2025-10-30**|**Chain-of-Thought Hijacking**|Jianli Zhao et.al.|[2510.26418](http://arxiv.org/abs/2510.26418)|
+|**2025-10-30**|**A Pragmatic View of AI Personhood**|Joel Z. Leibo et.al.|[2510.26396](http://arxiv.org/abs/2510.26396)|
 |**2025-10-29**|**Scaling Latent Reasoning via Looped Language Models**|Rui-Jie Zhu et.al.|[2510.25741](http://arxiv.org/abs/2510.25741)|
 |**2025-10-29**|**The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution**|Junlong Li et.al.|[2510.25726](http://arxiv.org/abs/2510.25726)|
 |**2025-10-29**|**Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry**|Run Peng et.al.|[2510.25595](http://arxiv.org/abs/2510.25595)|
@@ -55,12 +65,14 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251101>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-30**|**Pre-trained Forecasting Models: Strong Zero-Shot Feature Extractors for Time Series Classification**|Andreas Auer et.al.|[2510.26777](http://arxiv.org/abs/2510.26777)|
+|**2025-10-30**|**Towards Explainable and Reliable AI in Finance**|Albi Isufaj et.al.|[2510.26353](http://arxiv.org/abs/2510.26353)|
 |**2025-10-29**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|
 |**2025-10-25**|**Monitoring State Transitions in Markovian Systems with Sampling Cost**|Kumar Saurav et.al.|[2510.22327](http://arxiv.org/abs/2510.22327)|
 |**2025-10-20**|**Xihe: Scalable Zero-Shot Time Series Learner Via Hierarchical Interleaved Block Attention**|Yinbo Sun et.al.|[2510.21795](http://arxiv.org/abs/2510.21795)|
@@ -81,12 +93,13 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251101>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-30**|**Masked Diffusion Captioning for Visual Feature Learning**|Chao Feng et.al.|[2510.26799](http://arxiv.org/abs/2510.26799)|
 |**2025-10-29**|**Transformers in Medicine: Improving Vision-Language Alignment for Medical Image Captioning**|Yogesh Thakku Suresh et.al.|[2510.25164](http://arxiv.org/abs/2510.25164)|
 |**2025-10-28**|**DualCap: Enhancing Lightweight Image Captioning via Dual Retrieval with Similar Scenes Visual Prompts**|Binbin Li et.al.|[2510.24813](http://arxiv.org/abs/2510.24813)|
 |**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Gabriel O. dos Santos et.al.|[2510.24331](http://arxiv.org/abs/2510.24331)|
@@ -113,7 +126,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
