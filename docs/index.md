@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.11.03
+## Updated on 2025.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-04**|**Kosmos: An AI Scientist for Autonomous Discovery**|Ludovico Mitchener et.al.|[2511.02824](http://arxiv.org/abs/2511.02824)|
+|**2025-11-04**|**Optimizing AI Agent Attacks With Synthetic Data**|Chloe Loughridge et.al.|[2511.02823](http://arxiv.org/abs/2511.02823)|
+|**2025-11-04**|**MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**|Qianhao Yuan et.al.|[2511.02805](http://arxiv.org/abs/2511.02805)|
+|**2025-11-04**|**When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought**|Yiyang Zhou et.al.|[2511.02779](http://arxiv.org/abs/2511.02779)|
+|**2025-11-04**|**CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents**|Jiayu Liu et.al.|[2511.02734](http://arxiv.org/abs/2511.02734)|
+|**2025-11-04**|**Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs**|Georgios Tzannetos et.al.|[2511.02690](http://arxiv.org/abs/2511.02690)|
+|**2025-11-04**|**Stochastic Redistribution of Indistinguishable Items in Shared Habitation: A Multi-Agent Simulation Framework**|Syed Haseeb Shah et.al.|[2511.02648](http://arxiv.org/abs/2511.02648)|
+|**2025-11-04**|**SigmaCollab: An Application-Driven Dataset for Physically Situated Collaboration**|Dan Bohus et.al.|[2511.02560](http://arxiv.org/abs/2511.02560)|
+|**2025-11-04**|**Agentic AI for Mobile Network RAN Management and Optimization**|Jorge Pellejero et.al.|[2511.02532](http://arxiv.org/abs/2511.02532)|
+|**2025-11-04**|**ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning**|Jae-Woo Choi et.al.|[2511.02424](http://arxiv.org/abs/2511.02424)|
 |**2025-10-30**|**Remote Labor Index: Measuring AI Automation of Remote Work**|Mantas Mazeika et.al.|[2510.26787](http://arxiv.org/abs/2510.26787)|
 |**2025-10-30**|**Clone Deterministic 3D Worlds with Geometrically-Regularized World Models**|Zaishuo Xia et.al.|[2510.26782](http://arxiv.org/abs/2510.26782)|
 |**2025-10-30**|**The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy**|William Overman et.al.|[2510.26752](http://arxiv.org/abs/2510.26752)|
@@ -64,9 +74,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-10-31**|**Reducing Robotic Upper-Limb Assessment Time While Maintaining Precision: A Time Series Foundation Model Approach**|Faranak Akbarifar et.al.|[2511.00193](http://arxiv.org/abs/2511.00193)|
+|**2025-10-31**|**Leveraging Generic Time Series Foundation Models for EEG Classification**|Théo Gnassounou et.al.|[2510.27522](http://arxiv.org/abs/2510.27522)|
 |**2025-10-30**|**Pre-trained Forecasting Models: Strong Zero-Shot Feature Extractors for Time Series Classification**|Andreas Auer et.al.|[2510.26777](http://arxiv.org/abs/2510.26777)|
 |**2025-10-30**|**Towards Explainable and Reliable AI in Finance**|Albi Isufaj et.al.|[2510.26353](http://arxiv.org/abs/2510.26353)|
-|**2025-10-29**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|
+|**2025-10-31**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|
 |**2025-10-25**|**Monitoring State Transitions in Markovian Systems with Sampling Cost**|Kumar Saurav et.al.|[2510.22327](http://arxiv.org/abs/2510.22327)|
 |**2025-10-20**|**Xihe: Scalable Zero-Shot Time Series Learner Via Hierarchical Interleaved Block Attention**|Yinbo Sun et.al.|[2510.21795](http://arxiv.org/abs/2510.21795)|
 |**2025-10-21**|**QKCV Attention: Enhancing Time Series Forecasting with Static Categorical Embeddings for Both Lightweight and Pre-trained Foundation Models**|Hao Wang et.al.|[2510.20222](http://arxiv.org/abs/2510.20222)|
@@ -90,8 +102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-11-04**|**RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**|Jiahe Song et.al.|[2511.02384](http://arxiv.org/abs/2511.02384)|
+|**2025-11-03**|**Gesture Generation (Still) Needs Improved Human Evaluation Practices: Insights from a Community-Driven State-of-the-Art Benchmark**|Rajmund Nagy et.al.|[2511.01233](http://arxiv.org/abs/2511.01233)|
+|**2025-11-02**|**Efficient Test-Time Retrieval Augmented Generation**|Hailong Yin et.al.|[2511.01059](http://arxiv.org/abs/2511.01059)|
+|**2025-11-02**|**Fleming-VL: Towards Universal Medical Visual Reasoning with Multimodal LLMs**|Yan Shu et.al.|[2511.00916](http://arxiv.org/abs/2511.00916)|
+|**2025-10-31**|**Generating Accurate and Detailed Captions for High-Resolution Images**|Hankyeol Lee et.al.|[2510.27164](http://arxiv.org/abs/2510.27164)|
 |**2025-10-30**|**Masked Diffusion Captioning for Visual Feature Learning**|Chao Feng et.al.|[2510.26799](http://arxiv.org/abs/2510.26799)|
-|**2025-10-29**|**Transformers in Medicine: Improving Vision-Language Alignment for Medical Image Captioning**|Yogesh Thakku Suresh et.al.|[2510.25164](http://arxiv.org/abs/2510.25164)|
+|**2025-10-31**|**Transformers in Medicine: Improving Vision-Language Alignment for Medical Image Captioning**|Yogesh Thakku Suresh et.al.|[2510.25164](http://arxiv.org/abs/2510.25164)|
 |**2025-10-28**|**DualCap: Enhancing Lightweight Image Captioning via Dual Retrieval with Similar Scenes Visual Prompts**|Binbin Li et.al.|[2510.24813](http://arxiv.org/abs/2510.24813)|
 |**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Gabriel O. dos Santos et.al.|[2510.24331](http://arxiv.org/abs/2510.24331)|
 |**2025-10-26**|**SARCLIP: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery**|Qiwei Ma et.al.|[2510.22665](http://arxiv.org/abs/2510.22665)|
