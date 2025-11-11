@@ -1,4 +1,4 @@
-## Updated on 2025.11.10
+## Updated on 2025.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-07**|**Story Arena: A Multi-Agent Environment for Envisioning the Future of Software Engineering**|Justin D. Weisz et.al.|[2511.05410](http://arxiv.org/abs/2511.05410)|
+|**2025-11-07**|**PreResQ-R1: Towards Fine-Grained Rank-and-Score Reinforcement Learning for Visual Quality Assessment via Preference-Response Disentangled Policy Optimization**|Zehui Feng et.al.|[2511.05393](http://arxiv.org/abs/2511.05393)|
+|**2025-11-07**|**Reasoning Is All You Need for Urban Planning AI**|Sijie Yang et.al.|[2511.05375](http://arxiv.org/abs/2511.05375)|
+|**2025-11-07**|**ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations**|Amr Gomaa et.al.|[2511.05359](http://arxiv.org/abs/2511.05359)|
+|**2025-11-07**|**Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance**|Valeriu Dimidov et.al.|[2511.05311](http://arxiv.org/abs/2511.05311)|
+|**2025-11-07**|**DeepEyesV2: Toward Agentic Multimodal Model**|Jack Hong et.al.|[2511.05271](http://arxiv.org/abs/2511.05271)|
+|**2025-11-07**|**TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems**|Ishan Kavathekar et.al.|[2511.05269](http://arxiv.org/abs/2511.05269)|
+|**2025-11-07**|**Beyond Master and Apprentice: Grounding Foundation Models for Symbiotic Interactive Learning in a Shared Latent Space**|Linus Nwankwo et.al.|[2511.05203](http://arxiv.org/abs/2511.05203)|
+|**2025-11-07**|**Effectiveness of Chain-of-Thought in Distilling Reasoning Capability from Large Language Models**|Cong-Thanh Do et.al.|[2511.05184](http://arxiv.org/abs/2511.05184)|
+|**2025-11-07**|**Cybersecurity AI in OT: Insights from an AI Top-10 Ranker in the Dragos OT CTF 2025**|Víctor Mayoral-Vilches et.al.|[2511.05119](http://arxiv.org/abs/2511.05119)|
 |**2025-11-04**|**Kosmos: An AI Scientist for Autonomous Discovery**|Ludovico Mitchener et.al.|[2511.02824](http://arxiv.org/abs/2511.02824)|
 |**2025-11-04**|**Optimizing AI Agent Attacks With Synthetic Data**|Chloe Loughridge et.al.|[2511.02823](http://arxiv.org/abs/2511.02823)|
 |**2025-11-04**|**MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**|Qianhao Yuan et.al.|[2511.02805](http://arxiv.org/abs/2511.02805)|
@@ -75,12 +85,16 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-07**|**Synapse: Adaptive Arbitration of Complementary Expertise in Time Series Foundational Models**|Sarkar Snigdha Sarathi Das et.al.|[2511.05460](http://arxiv.org/abs/2511.05460)|
+|**2025-11-07**|**No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models**|Ragini Gupta et.al.|[2511.05179](http://arxiv.org/abs/2511.05179)|
+|**2025-11-06**|**Temporal convolutional and fusional transformer model with Bi-LSTM encoder-decoder for multi-time-window remaining useful life prediction**|Mohamadreza Akbari Pour et.al.|[2511.04723](http://arxiv.org/abs/2511.04723)|
+|**2025-11-05**|**Forecast2Anomaly (F2A): Adapting Multivariate Time Series Foundation Models for Anomaly Prediction**|Atif Hassan et.al.|[2511.03149](http://arxiv.org/abs/2511.03149)|
 |**2025-10-31**|**Reducing Robotic Upper-Limb Assessment Time While Maintaining Precision: A Time Series Foundation Model Approach**|Faranak Akbarifar et.al.|[2511.00193](http://arxiv.org/abs/2511.00193)|
 |**2025-10-31**|**Leveraging Generic Time Series Foundation Models for EEG Classification**|Théo Gnassounou et.al.|[2510.27522](http://arxiv.org/abs/2510.27522)|
 |**2025-10-30**|**Pre-trained Forecasting Models: Strong Zero-Shot Feature Extractors for Time Series Classification**|Andreas Auer et.al.|[2510.26777](http://arxiv.org/abs/2510.26777)|
@@ -105,12 +119,13 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-06**|**Surprisal reveals diversity gaps in image captioning and different scorers change the story**|Nikolai Ilinykh et.al.|[2511.04754](http://arxiv.org/abs/2511.04754)|
 |**2025-11-04**|**RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**|Jiahe Song et.al.|[2511.02384](http://arxiv.org/abs/2511.02384)|
 |**2025-11-03**|**Gesture Generation (Still) Needs Improved Human Evaluation Practices: Insights from a Community-Driven State-of-the-Art Benchmark**|Rajmund Nagy et.al.|[2511.01233](http://arxiv.org/abs/2511.01233)|
 |**2025-11-02**|**Efficient Test-Time Retrieval Augmented Generation**|Hailong Yin et.al.|[2511.01059](http://arxiv.org/abs/2511.01059)|
@@ -143,7 +158,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
