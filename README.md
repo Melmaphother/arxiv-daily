@@ -1,4 +1,4 @@
-## Updated on 2025.11.17
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-19**|**GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization**|Yikun Wang et.al.|[2511.15705](http://arxiv.org/abs/2511.15705)|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|
+|**2025-11-19**|**INQUIRE-Search: A Framework for Interactive Discovery in Large-Scale Biodiversity Databases**|Edward Vendrow et.al.|[2511.15656](http://arxiv.org/abs/2511.15656)|
+|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|
+|**2025-11-19**|**Fast and Certified Bounding of Security-Constrained DCOPF via Interval Bound Propagation**|Eren Tekeler et.al.|[2511.15624](http://arxiv.org/abs/2511.15624)|
+|**2025-11-19**|**What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity**|Alexis Audran-Reiss et.al.|[2511.15593](http://arxiv.org/abs/2511.15593)|
+|**2025-11-19**|**Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi**|Kayo Tei et.al.|[2511.15581](http://arxiv.org/abs/2511.15581)|
+|**2025-11-19**|**AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning**|Urjitkumar Patel et.al.|[2511.15578](http://arxiv.org/abs/2511.15578)|
+|**2025-11-19**|**Experimental demonstration of non-local magic in a superconducting quantum processor**|Halima Giovanna Ahmad et.al.|[2511.15576](http://arxiv.org/abs/2511.15576)|
+|**2025-11-19**|**Two-Faced Social Agents: Context Collapse in Role-Conditioned Large Language Models**|Vikram K Suresh et.al.|[2511.15573](http://arxiv.org/abs/2511.15573)|
 |**2025-11-13**|**Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling**|Jiahao Wang et.al.|[2511.10648](http://arxiv.org/abs/2511.10648)|
 |**2025-11-13**|**ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**|Yesheng Liang et.al.|[2511.10645](http://arxiv.org/abs/2511.10645)|
 |**2025-11-13**|**Flexible Simulation Based Inference for Galaxy Photometric Fitting with Synthesizer**|Thomas Harvey et.al.|[2511.10640](http://arxiv.org/abs/2511.10640)|
@@ -95,12 +105,22 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-19**|**RoMa v2: Harder Better Faster Denser Feature Matching**|Johan Edstedt et.al.|[2511.15706](http://arxiv.org/abs/2511.15706)|
+|**2025-11-19**|**Computation for Epidemic Prediction with Graph Neural Network by Model Combination**|Xiangxin Kong et.al.|[2511.15469](http://arxiv.org/abs/2511.15469)|
+|**2025-11-19**|**TSFM in-context learning for time-series classification of bearing-health status**|Michel Tokic et.al.|[2511.15447](http://arxiv.org/abs/2511.15447)|
+|**2025-11-19**|**On the Internal Semantics of Time-Series Foundation Models**|Atharva Pandey et.al.|[2511.15324](http://arxiv.org/abs/2511.15324)|
+|**2025-11-19**|**FaultDiffusion: Few-Shot Fault Time Series Generation with Diffusion Model**|Yi Xu et.al.|[2511.15174](http://arxiv.org/abs/2511.15174)|
+|**2025-11-19**|**Constant-Modulus Secure Analog Beamforming for an IRS-Assisted Communication System with Large-Scale Antenna Array**|Weijie Xiong et.al.|[2511.15095](http://arxiv.org/abs/2511.15095)|
+|**2025-11-19**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al.|[2511.15083](http://arxiv.org/abs/2511.15083)|
+|**2025-11-18**|**Lightweight Foundation Model for Wireless Time Series Downstream Tasks on Edge Devices**|Mohammad Cheraghinia et.al.|[2511.14895](http://arxiv.org/abs/2511.14895)|
+|**2025-11-18**|**A High-Fidelity Neurosurgical Training Platform for Bimanual Procedures: A Feasibility Study**|Houssem-Eddine Gueziri et.al.|[2511.14879](http://arxiv.org/abs/2511.14879)|
+|**2025-11-18**|**Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting**|Yuchen Luo et.al.|[2511.14632](http://arxiv.org/abs/2511.14632)|
 |**2025-11-13**|**Non-stationary noise in gravitational wave analyses: The wavelet domain noise covariance matrix**|Neil J. Cornish et.al.|[2511.10632](http://arxiv.org/abs/2511.10632)|
 |**2025-11-13**|**Weak Relation Enforcement for Kinematic-Informed Long-Term Stock Prediction with Artificial Neural Networks**|Stanislav Selitskiy et.al.|[2511.10494](http://arxiv.org/abs/2511.10494)|
 |**2025-11-13**|**Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-Temporal Graph Learning Method for Traffic Flow Forecasting**|Feng Wang et.al.|[2511.10434](http://arxiv.org/abs/2511.10434)|
@@ -139,12 +159,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|
+|**2025-11-19**|**The Impact of Quantization on Large Reasoning Model Reinforcement Learning**|Medha Kumar et.al.|[2511.15694](http://arxiv.org/abs/2511.15694)|
+|**2025-11-19**|**Generalized Borel Sets**|Claudio Agostini et.al.|[2511.15663](http://arxiv.org/abs/2511.15663)|
+|**2025-11-19**|**Trimaximal Mixing Patterns Meet the First JUNO Result**|Di Zhang et.al.|[2511.15654](http://arxiv.org/abs/2511.15654)|
+|**2025-11-19**|**Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning**|Tao Hu et.al.|[2511.15633](http://arxiv.org/abs/2511.15633)|
+|**2025-11-19**|**The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification**|Dante Francisco Wasmuht et.al.|[2511.15622](http://arxiv.org/abs/2511.15622)|
+|**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Senyu Fei et.al.|[2511.15605](http://arxiv.org/abs/2511.15605)|
+|**2025-11-19**|**AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning**|Urjitkumar Patel et.al.|[2511.15578](http://arxiv.org/abs/2511.15578)|
+|**2025-11-19**|**Experimental demonstration of non-local magic in a superconducting quantum processor**|Halima Giovanna Ahmad et.al.|[2511.15576](http://arxiv.org/abs/2511.15576)|
+|**2025-11-19**|**Multimodal Evaluation of Russian-language Architectures**|Artem Chervyakov et.al.|[2511.15552](http://arxiv.org/abs/2511.15552)|
 |**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](http://arxiv.org/abs/2511.10647)|
 |**2025-11-13**|**Ordinary lattice defects as probes of topology**|Aiden J. Mains et.al.|[2511.10646](http://arxiv.org/abs/2511.10646)|
 |**2025-11-13**|**Know Your Limits: Entropy Estimation Modeling for Compression and Generalization**|Benjamin L. Badger et.al.|[2511.10618](http://arxiv.org/abs/2511.10618)|
@@ -188,7 +218,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
