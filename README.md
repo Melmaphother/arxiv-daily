@@ -1,4 +1,4 @@
-## Updated on 2025.11.26
+## Updated on 2025.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|
+|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|
+|**2025-11-26**|**AI/ML Model Cards in Edge AI Cyberinfrastructure: towards Agentic AI**|Beth Plale et.al.|[2511.21661](http://arxiv.org/abs/2511.21661)|
+|**2025-11-26**|**The Need for Benchmarks to Advance AI-Enabled Player Risk Detection in Gambling**|Kasra Ghaharian et.al.|[2511.21658](http://arxiv.org/abs/2511.21658)|
+|**2025-11-26**|**EvilGenie: A Reward Hacking Benchmark**|Jonathan Gabor et.al.|[2511.21654](http://arxiv.org/abs/2511.21654)|
+|**2025-11-26**|**Stochastic Optimal Control of Interacting Particle Systems in Hilbert Spaces and Applications**|Filippo de Feo et.al.|[2511.21646](http://arxiv.org/abs/2511.21646)|
+|**2025-11-26**|**Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO**|Daniel R. Jiang et.al.|[2511.21638](http://arxiv.org/abs/2511.21638)|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|
+|**2025-11-26**|**Uniform inference for kernel instrumental variable regression**|Marvin Lob et.al.|[2511.21603](http://arxiv.org/abs/2511.21603)|
+|**2025-11-26**|**On the Limits of Innate Planning in Large Language Models**|Charles Schepanowski et.al.|[2511.21591](http://arxiv.org/abs/2511.21591)|
 |**2025-11-24**|**VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection**|Qiang Wang et.al.|[2511.19436](http://arxiv.org/abs/2511.19436)|
 |**2025-11-24**|**Are Image-to-Video Models Good Zero-Shot Image Editors?**|Zechuan Zhang et.al.|[2511.19435](http://arxiv.org/abs/2511.19435)|
 |**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Dingkang Liang et.al.|[2511.19430](http://arxiv.org/abs/2511.19430)|
@@ -115,12 +125,22 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|
+|**2025-11-26**|**Mechanistic Interpretability for Transformer-based Time Series Classification**|Matīss Kalnāre et.al.|[2511.21514](http://arxiv.org/abs/2511.21514)|
+|**2025-11-26**|**Sawtooth Sampling for Time Series Denoising Diffusion Implicit Models**|Heiko Oppel et.al.|[2511.21320](http://arxiv.org/abs/2511.21320)|
+|**2025-11-26**|**Long-Term Alzheimers Disease Prediction: A Novel Image Generation Method Using Temporal Parameter Estimation with Normal Inverse Gamma Distribution on Uneven Time Series**|Xin Hong et.al.|[2511.21057](http://arxiv.org/abs/2511.21057)|
+|**2025-11-26**|**Prediction of Herd Life in Dairy Cows Using Multi-Head Attention Transformers**|Mahdi Saki et.al.|[2511.21034](http://arxiv.org/abs/2511.21034)|
+|**2025-11-25**|**Evaluating the Performance of Deep Learning Models in Whole-body Dynamic 3D Posture Prediction During Load-reaching Activities**|Seyede Niloofar Hosseini et.al.|[2511.20615](http://arxiv.org/abs/2511.20615)|
+|**2025-11-25**|**MSTN: Fast and Efficient Multivariate Time Series Model**|Sumit S Shevtekar et.al.|[2511.20577](http://arxiv.org/abs/2511.20577)|
+|**2025-11-25**|**Single-hole spectral functions in 1D quantum magnets with different ground states**|Sibin Yang et.al.|[2511.20447](http://arxiv.org/abs/2511.20447)|
+|**2025-11-25**|**RED-F: Reconstruction-Elimination based Dual-stream Contrastive Forecasting for Multivariate Time Series Anomaly Prediction**|PengYu Chen et.al.|[2511.20044](http://arxiv.org/abs/2511.20044)|
+|**2025-11-25**|**Zero-Shot Transfer Capabilities of the Sundial Foundation Model for Leaf Area Index Forecasting**|Peining Zhang et.al.|[2511.20004](http://arxiv.org/abs/2511.20004)|
 |**2025-11-24**|**Disc Game Dynamics: A Latent Space Perspective on Selection and Learning in Games**|Pablo Lechon-Alonso et.al.|[2511.19346](http://arxiv.org/abs/2511.19346)|
 |**2025-11-24**|**Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model**|Felix Birkel et.al.|[2511.19272](http://arxiv.org/abs/2511.19272)|
 |**2025-11-24**|**SimDiff: Simpler Yet Better Diffusion Model for Time Series Point Forecasting**|Hang Ding et.al.|[2511.19256](http://arxiv.org/abs/2511.19256)|
@@ -179,12 +199,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|
+|**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|
+|**2025-11-26**|**Model-free practical PI-Lead control design by ultimate sensitivity principle**|Michael Ruderman et.al.|[2511.21641](http://arxiv.org/abs/2511.21641)|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|
+|**2025-11-26**|**A Category of the Political \Large{Part I - Homónoia}**|Joseph Abdou et.al.|[2511.21623](http://arxiv.org/abs/2511.21623)|
+|**2025-11-26**|**Transit Timing of the White Dwarf-Cold Jupiter System WD 1856+534**|Eli A. Gendreau-Distler et.al.|[2511.21611](http://arxiv.org/abs/2511.21611)|
+|**2025-11-26**|**Unconventional orders in the maple-leaf ferro-antiferromagnetic Heisenberg model**|Lasse Gresista et.al.|[2511.21598](http://arxiv.org/abs/2511.21598)|
+|**2025-11-26**|**On the Limits of Innate Planning in Large Language Models**|Charles Schepanowski et.al.|[2511.21591](http://arxiv.org/abs/2511.21591)|
+|**2025-11-26**|**HarmonicAttack: An Adaptive Cross-Domain Audio Watermark Removal**|Kexin Li et.al.|[2511.21577](http://arxiv.org/abs/2511.21577)|
+|**2025-11-26**|**Multimodal Robust Prompt Distillation for 3D Point Cloud Models**|Xiang Gu et.al.|[2511.21574](http://arxiv.org/abs/2511.21574)|
 |**2025-11-24**|**In-Video Instructions: Visual Signals as Generative Control**|Gongfan Fang et.al.|[2511.19401](http://arxiv.org/abs/2511.19401)|
 |**2025-11-24**|**PTF Testing Lower Bounds for Non-Gaussian Component Analysis**|Ilias Diakonikolas et.al.|[2511.19398](http://arxiv.org/abs/2511.19398)|
 |**2025-11-24**|**Constraining strongly-warped extra dimensions with rotating black holes**|Bruno Valeixo Bento et.al.|[2511.19392](http://arxiv.org/abs/2511.19392)|
@@ -248,7 +278,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
