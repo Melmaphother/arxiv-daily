@@ -1,4 +1,4 @@
-## Updated on 2025.12.01
+## Updated on 2025.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|
+|**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|
+|**2025-12-04**|**Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning**|Purbesh Mitra et.al.|[2512.05105](http://arxiv.org/abs/2512.05105)|
+|**2025-12-04**|**Breaking the bandwidth-efficiency trade-off in soliton microcombs via mode coupling**|Yang Liu et.al.|[2512.05090](http://arxiv.org/abs/2512.05090)|
+|**2025-12-04**|**Gradient Descent with Provably Tuned Learning-rate Schedules**|Dravyansh Sharma et.al.|[2512.05084](http://arxiv.org/abs/2512.05084)|
+|**2025-12-04**|**David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?**|Shashwat Shankar et.al.|[2512.05073](http://arxiv.org/abs/2512.05073)|
+|**2025-12-04**|**Personalizing Agent Privacy Decisions via Logical Entailment**|James Flemings et.al.|[2512.05065](http://arxiv.org/abs/2512.05065)|
+|**2025-12-04**|**Configuration Defects in Kubernetes**|Yue Zhang et.al.|[2512.05062](http://arxiv.org/abs/2512.05062)|
+|**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|
 |**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|
 |**2025-11-26**|**AI/ML Model Cards in Edge AI Cyberinfrastructure: towards Agentic AI**|Beth Plale et.al.|[2511.21661](http://arxiv.org/abs/2511.21661)|
@@ -125,12 +135,22 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-04**|**RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation**|Nicolas Houdré et.al.|[2512.05025](http://arxiv.org/abs/2512.05025)|
+|**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871](http://arxiv.org/abs/2512.04871)|
+|**2025-12-04**|**Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability**|João Marcos T. Palheta et.al.|[2512.04794](http://arxiv.org/abs/2512.04794)|
+|**2025-12-04**|**Complementary Characterization of Agent-Based Models via Computational Mechanics and Diffusion Models**|Roberto Garrone et.al.|[2512.04771](http://arxiv.org/abs/2512.04771)|
+|**2025-12-04**|**UniTS: Unified Time Series Generative Model for Remote Sensing**|Yuxiang Zhang et.al.|[2512.04461](http://arxiv.org/abs/2512.04461)|
+|**2025-12-04**|**STeP-Diff: Spatio-Temporal Physics-Informed Diffusion Models for Mobile Fine-Grained Pollution Forecasting**|Nan Zhou et.al.|[2512.04385](http://arxiv.org/abs/2512.04385)|
+|**2025-12-03**|**Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer**|Tasmiah Haque et.al.|[2512.04282](http://arxiv.org/abs/2512.04282)|
+|**2025-12-03**|**Minuet: A Diffusion Autoencoder for Compact Semantic Compression of Multi-Band Galaxy Images**|Alexander T. Gagliano et.al.|[2512.04145](http://arxiv.org/abs/2512.04145)|
+|**2025-12-03**|**A decay-adjusted spatio-temporal model to account for the impact of mass drug administration on neglected tropical disease prevalence**|Emanuele Giorgi et.al.|[2512.03760](http://arxiv.org/abs/2512.03760)|
+|**2025-12-03**|**FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation**|Yiyi Cai et.al.|[2512.03520](http://arxiv.org/abs/2512.03520)|
 |**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|
 |**2025-11-26**|**Mechanistic Interpretability for Transformer-based Time Series Classification**|Matīss Kalnāre et.al.|[2511.21514](http://arxiv.org/abs/2511.21514)|
 |**2025-11-26**|**Sawtooth Sampling for Time Series Denoising Diffusion Implicit Models**|Heiko Oppel et.al.|[2511.21320](http://arxiv.org/abs/2511.21320)|
@@ -199,12 +219,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|
+|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|
+|**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|
+|**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|
+|**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107](http://arxiv.org/abs/2512.05107)|
+|**2025-12-04**|**NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation**|Yu Zeng et.al.|[2512.05106](http://arxiv.org/abs/2512.05106)|
+|**2025-12-04**|**Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning**|Purbesh Mitra et.al.|[2512.05105](http://arxiv.org/abs/2512.05105)|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|
+|**2025-12-04**|**Resolving the molecular gas emission of the z~2.5-2.8 starburst galaxies SPT0125-47 and SPT 2134-50**|K. Kade et.al.|[2512.05093](http://arxiv.org/abs/2512.05093)|
 |**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|
 |**2025-11-26**|**Model-free practical PI-Lead control design by ultimate sensitivity principle**|Michael Ruderman et.al.|[2511.21641](http://arxiv.org/abs/2511.21641)|
@@ -278,7 +308,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
