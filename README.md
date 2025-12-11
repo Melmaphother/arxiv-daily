@@ -1,4 +1,4 @@
-## Updated on 2025.12.08
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](http://arxiv.org/abs/2512.08889)|
+|**2025-12-09**|**Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents**|Xiang Chen et.al.|[2512.08870](http://arxiv.org/abs/2512.08870)|
+|**2025-12-09**|**A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows**|Eranga Bandara et.al.|[2512.08769](http://arxiv.org/abs/2512.08769)|
+|**2025-12-09**|**Difference-in-Differences with Interval Data**|Daisuke Kurisu et.al.|[2512.08759](http://arxiv.org/abs/2512.08759)|
+|**2025-12-09**|**Towards Foundation Models with Native Multi-Agent Intelligence**|Shuyue Hu et.al.|[2512.08743](http://arxiv.org/abs/2512.08743)|
+|**2025-12-09**|**Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy**|Botao 'Amber' Hu et.al.|[2512.08737](http://arxiv.org/abs/2512.08737)|
+|**2025-12-09**|**Chain-of-Image Generation: Toward Monitorable and Controllable Image Generation**|Young Kyung Kim et.al.|[2512.08645](http://arxiv.org/abs/2512.08645)|
+|**2025-12-09**|**See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm**|Haoyu Zhao et.al.|[2512.08629](http://arxiv.org/abs/2512.08629)|
+|**2025-12-09**|**Curriculum Guided Massive Multi Agent System Solving For Robust Long Horizon Tasks**|Indrajit Kar et.al.|[2512.08545](http://arxiv.org/abs/2512.08545)|
+|**2025-12-09**|**Thinking with Images via Self-Calling Agent**|Wenxi Yang et.al.|[2512.08511](http://arxiv.org/abs/2512.08511)|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|
@@ -135,12 +145,17 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-09**|**SPROCKET: Extending ROCKET to Distance-Based Time-Series Transformations With Prototypes**|Nicholas Harner et.al.|[2512.08246](http://arxiv.org/abs/2512.08246)|
+|**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|
+|**2025-12-08**|**Time Series Foundation Models for Process Model Forecasting**|Yongbo Yu et.al.|[2512.07624](http://arxiv.org/abs/2512.07624)|
+|**2025-12-09**|**FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting**|Qingyuan Yang et.al.|[2512.07539](http://arxiv.org/abs/2512.07539)|
+|**2025-12-05**|**TS-HINT: Enhancing Semiconductor Time Series Regression Using Attention Hints From Large Language Model Reasoning**|Jonathan Adam Rico et.al.|[2512.05419](http://arxiv.org/abs/2512.05419)|
 |**2025-12-04**|**RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation**|Nicolas Houdré et.al.|[2512.05025](http://arxiv.org/abs/2512.05025)|
 |**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871](http://arxiv.org/abs/2512.04871)|
 |**2025-12-04**|**Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability**|João Marcos T. Palheta et.al.|[2512.04794](http://arxiv.org/abs/2512.04794)|
@@ -151,6 +166,11 @@
 |**2025-12-03**|**Minuet: A Diffusion Autoencoder for Compact Semantic Compression of Multi-Band Galaxy Images**|Alexander T. Gagliano et.al.|[2512.04145](http://arxiv.org/abs/2512.04145)|
 |**2025-12-03**|**A decay-adjusted spatio-temporal model to account for the impact of mass drug administration on neglected tropical disease prevalence**|Emanuele Giorgi et.al.|[2512.03760](http://arxiv.org/abs/2512.03760)|
 |**2025-12-03**|**FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation**|Yiyi Cai et.al.|[2512.03520](http://arxiv.org/abs/2512.03520)|
+|**2025-12-02**|**A Comparative Study on How Data Normalization Affects Zero-Shot Generalization in Time Series Foundation Models**|Ihab Ahmed et.al.|[2512.02833](http://arxiv.org/abs/2512.02833)|
+|**2025-11-30**|**DPWMixer: Dual-Path Wavelet Mixer for Long-Term Time Series Forecasting**|Li Qianyang et.al.|[2512.02070](http://arxiv.org/abs/2512.02070)|
+|**2025-12-02**|**Forecasting in Offline Reinforcement Learning for Non-stationary Environments**|Suzan Ece Ada et.al.|[2512.01987](http://arxiv.org/abs/2512.01987)|
+|**2025-11-30**|**FMTK: A Modular Toolkit for Composable Time Series Foundation Model Pipelines**|Hetvi Shastri et.al.|[2512.01038](http://arxiv.org/abs/2512.01038)|
+|**2025-11-30**|**City-Conditioned Memory for Multi-City Traffic and Mobility Forecasting**|Wenzhang Du et.al.|[2512.00851](http://arxiv.org/abs/2512.00851)|
 |**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|
 |**2025-11-26**|**Mechanistic Interpretability for Transformer-based Time Series Classification**|Matīss Kalnāre et.al.|[2511.21514](http://arxiv.org/abs/2511.21514)|
 |**2025-11-26**|**Sawtooth Sampling for Time Series Denoising Diffusion Implicit Models**|Heiko Oppel et.al.|[2511.21320](http://arxiv.org/abs/2511.21320)|
@@ -219,12 +239,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|
+|**2025-12-09**|**Refining Visual Artifacts in Diffusion Models via Explainable AI-based Flaw Activation Maps**|Seoyeon Lee et.al.|[2512.08774](http://arxiv.org/abs/2512.08774)|
+|**2025-12-09**|**Chain-of-Image Generation: Toward Monitorable and Controllable Image Generation**|Young Kyung Kim et.al.|[2512.08645](http://arxiv.org/abs/2512.08645)|
+|**2025-12-09**|**Beyond Real Weights: Hypercomplex Representations for Stable Quantization**|Jawad Ibn Ahad et.al.|[2512.08524](http://arxiv.org/abs/2512.08524)|
+|**2025-12-09**|**Interpreting Structured Perturbations in Image Protection Methods for Diffusion Models**|Michael R. Martin et.al.|[2512.08329](http://arxiv.org/abs/2512.08329)|
+|**2025-12-08**|**Leveraging Machine Learning and Large Language Models for Automated Image Clustering and Description in Legal Discovery**|Qiang Mao et.al.|[2512.08079](http://arxiv.org/abs/2512.08079)|
+|**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|
+|**2025-12-08**|**Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment**|Sangha Park et.al.|[2512.07702](http://arxiv.org/abs/2512.07702)|
+|**2025-12-08**|**SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation**|Yao Teng et.al.|[2512.07503](http://arxiv.org/abs/2512.07503)|
+|**2025-12-08**|**ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation**|Ziyang Mai et.al.|[2512.07328](http://arxiv.org/abs/2512.07328)|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|
 |**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|
@@ -308,7 +338,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
