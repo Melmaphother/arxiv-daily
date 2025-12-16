@@ -1,4 +1,4 @@
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-12**|**Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs**|Manuela Chacon-Chamorro et.al.|[2512.11689](http://arxiv.org/abs/2512.11689)|
+|**2025-12-12**|**MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition**|Tim Cofala et.al.|[2512.11682](http://arxiv.org/abs/2512.11682)|
+|**2025-12-12**|**Risk Limited Asset Allocation with a Budget Threshold Utility Function and Leptokurtotic Distributions of Returns**|Graham L Giller et.al.|[2512.11666](http://arxiv.org/abs/2512.11666)|
+|**2025-12-12**|**Basis dependence of Neural Quantum States for the Transverse Field Ising Model**|Ronald Santiago Cortes et.al.|[2512.11632](http://arxiv.org/abs/2512.11632)|
+|**2025-12-12**|**Embodied Image Compression**|Chunyi Li et.al.|[2512.11612](http://arxiv.org/abs/2512.11612)|
+|**2025-12-12**|**Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration**|Alexander Tyurin et.al.|[2512.11587](http://arxiv.org/abs/2512.11587)|
+|**2025-12-12**|**HFS: Holistic Query-Aware Frame Selection for Efficient Video Reasoning**|Yiqing Yang et.al.|[2512.11534](http://arxiv.org/abs/2512.11534)|
+|**2025-12-12**|**EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection**|Georgios Kaoukis et.al.|[2512.11506](http://arxiv.org/abs/2512.11506)|
+|**2025-12-12**|**AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints**|Shuowei Cai et.al.|[2512.11426](http://arxiv.org/abs/2512.11426)|
+|**2025-12-12**|**Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance**|Gonca Gürsun et.al.|[2512.11421](http://arxiv.org/abs/2512.11421)|
 |**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](http://arxiv.org/abs/2512.08889)|
 |**2025-12-09**|**Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents**|Xiang Chen et.al.|[2512.08870](http://arxiv.org/abs/2512.08870)|
 |**2025-12-09**|**A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows**|Eranga Bandara et.al.|[2512.08769](http://arxiv.org/abs/2512.08769)|
@@ -145,7 +155,7 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
@@ -239,12 +249,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-12**|**Multiscale Causal Geometric Deep Learning for Modeling Brain Structure**|Chengzhi Xia et.al.|[2512.11738](http://arxiv.org/abs/2512.11738)|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|
+|**2025-12-11**|**VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation**|Felix O'Mahony et.al.|[2512.11061](http://arxiv.org/abs/2512.11061)|
+|**2025-12-11**|**Leveraging Text Guidance for Enhancing Demographic Fairness in Gender Classification**|Anoop Krishnan et.al.|[2512.11015](http://arxiv.org/abs/2512.11015)|
+|**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](http://arxiv.org/abs/2512.10940)|
+|**2025-12-11**|**AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence**|Bo Yang et.al.|[2512.10624](http://arxiv.org/abs/2512.10624)|
+|**2025-12-10**|**Independent Density Estimation**|Jiahao Liu et.al.|[2512.10067](http://arxiv.org/abs/2512.10067)|
+|**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|
+|**2025-12-10**|**LongT2IBench: A Benchmark for Evaluating Long Text-to-Image Generation with Graph-structured Annotations**|Zhichao Yang et.al.|[2512.09271](http://arxiv.org/abs/2512.09271)|
+|**2025-12-09**|**GimbalDiffusion: Gravity-Aware Camera Control for Video Generation**|Frédéric Fortier-Chouinard et.al.|[2512.09112](http://arxiv.org/abs/2512.09112)|
 |**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|
 |**2025-12-09**|**Refining Visual Artifacts in Diffusion Models via Explainable AI-based Flaw Activation Maps**|Seoyeon Lee et.al.|[2512.08774](http://arxiv.org/abs/2512.08774)|
 |**2025-12-09**|**Chain-of-Image Generation: Toward Monitorable and Controllable Image Generation**|Young Kyung Kim et.al.|[2512.08645](http://arxiv.org/abs/2512.08645)|
@@ -338,7 +358,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
