@@ -1,4 +1,4 @@
-## Updated on 2025.12.16
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](http://arxiv.org/abs/2512.16909)|
+|**2025-12-18**|**Distributional AGI Safety**|Nenad Tomašev et.al.|[2512.16856](http://arxiv.org/abs/2512.16856)|
+|**2025-12-18**|**Meta-RL Induces Exploration in Language Agents**|Yulun Jiang et.al.|[2512.16848](http://arxiv.org/abs/2512.16848)|
+|**2025-12-18**|**Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning**|Bahman Abolhassani et.al.|[2512.16813](http://arxiv.org/abs/2512.16813)|
+|**2025-12-18**|**Observer-based Differentially Private Consensus for Linear Multi-agent Systems**|Xiaofeng Zong et.al.|[2512.16736](http://arxiv.org/abs/2512.16736)|
+|**2025-12-18**|**Topological magic response in quantum spin chains**|Ritu Nehra et.al.|[2512.16673](http://arxiv.org/abs/2512.16673)|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|
+|**2025-12-18**|**From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment**|Himanshu Gharat et.al.|[2512.16532](http://arxiv.org/abs/2512.16532)|
+|**2025-12-18**|**Plain language adaptations of biomedical text using LLMs: Comparision of evaluation metrics**|Primoz Kocbek et.al.|[2512.16530](http://arxiv.org/abs/2512.16530)|
 |**2025-12-12**|**Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs**|Manuela Chacon-Chamorro et.al.|[2512.11689](http://arxiv.org/abs/2512.11689)|
 |**2025-12-12**|**MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition**|Tim Cofala et.al.|[2512.11682](http://arxiv.org/abs/2512.11682)|
 |**2025-12-12**|**Risk Limited Asset Allocation with a Budget Threshold Utility Function and Leptokurtotic Distributions of Returns**|Graham L Giller et.al.|[2512.11666](http://arxiv.org/abs/2512.11666)|
@@ -155,12 +165,14 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-17**|**Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting**|Defu Cao et.al.|[2512.16022](http://arxiv.org/abs/2512.16022)|
+|**2025-12-16**|**FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting**|Xingjian Wu et.al.|[2512.14253](http://arxiv.org/abs/2512.14253)|
 |**2025-12-09**|**SPROCKET: Extending ROCKET to Distance-Based Time-Series Transformations With Prototypes**|Nicholas Harner et.al.|[2512.08246](http://arxiv.org/abs/2512.08246)|
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|
 |**2025-12-08**|**Time Series Foundation Models for Process Model Forecasting**|Yongbo Yu et.al.|[2512.07624](http://arxiv.org/abs/2512.07624)|
@@ -249,12 +261,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-18**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|
+|**2025-12-18**|**Geometric Disentanglement of Text Embeddings for Subject-Consistent Text-to-Image Generation using A Single Prompt**|Shangxun Li et.al.|[2512.16443](http://arxiv.org/abs/2512.16443)|
+|**2025-12-18**|**Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models**|Mariam Hassan et.al.|[2512.16371](http://arxiv.org/abs/2512.16371)|
+|**2025-12-18**|**Auto-Vocabulary 3D Object Detection**|Haomeng Zhang et.al.|[2512.16077](http://arxiv.org/abs/2512.16077)|
+|**2025-12-17**|**GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models**|Bozhou Li et.al.|[2512.15560](http://arxiv.org/abs/2512.15560)|
+|**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](http://arxiv.org/abs/2512.15531)|
+|**2025-12-17**|**Copyright Infringement Risk Reduction via Chain-of-Thought and Task Instruction Prompting**|Neeraj Sarna et.al.|[2512.15442](http://arxiv.org/abs/2512.15442)|
+|**2025-12-17**|**Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets**|Jialong Zuo et.al.|[2512.15110](http://arxiv.org/abs/2512.15110)|
+|**2025-12-16**|**DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning**|Nakamasa Inoue et.al.|[2512.14420](http://arxiv.org/abs/2512.14420)|
+|**2025-12-18**|**Cornserve: Efficiently Serving Any-to-Any Multimodal Models**|Jeff J. Ma et.al.|[2512.14098](http://arxiv.org/abs/2512.14098)|
 |**2025-12-12**|**Multiscale Causal Geometric Deep Learning for Modeling Brain Structure**|Chengzhi Xia et.al.|[2512.11738](http://arxiv.org/abs/2512.11738)|
 |**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|
 |**2025-12-11**|**VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation**|Felix O'Mahony et.al.|[2512.11061](http://arxiv.org/abs/2512.11061)|
@@ -358,7 +380,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
