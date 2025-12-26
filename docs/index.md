@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|
+|**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|
+|**2025-12-24**|**Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation**|Tomoaki Yamaguchi et.al.|[2512.21066](http://arxiv.org/abs/2512.21066)|
+|**2025-12-24**|**Rethinking Supervised Fine-Tuning: Emphasizing Key Answer Tokens for Improved LLM Accuracy**|Xiaofeng Shi et.al.|[2512.21017](http://arxiv.org/abs/2512.21017)|
+|**2025-12-24**|**Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation**|Wei-Rui Chen et.al.|[2512.21002](http://arxiv.org/abs/2512.21002)|
+|**2025-12-24**|**LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT**|Xudong Wang et.al.|[2512.20997](http://arxiv.org/abs/2512.20997)|
+|**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|
+|**2025-12-24**|**A Blockchain-Monitored Agentic AI Architecture for Trusted Perception-Reasoning-Action Pipelines**|Salman Jan et.al.|[2512.20985](http://arxiv.org/abs/2512.20985)|
+|**2025-12-24**|**SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking**|Yujin Noh et.al.|[2512.20975](http://arxiv.org/abs/2512.20975)|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|
 |**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](http://arxiv.org/abs/2512.16909)|
 |**2025-12-18**|**Distributional AGI Safety**|Nenad Tomašev et.al.|[2512.16856](http://arxiv.org/abs/2512.16856)|
@@ -164,6 +174,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-24**|**Learning the Macroeconomic Language**|Siddhartha Chib et.al.|[2512.21031](http://arxiv.org/abs/2512.21031)|
+|**2025-12-23**|**TS-Arena Technical Report -- A Pre-registered Live Forecasting Platform**|Marcel Meyer et.al.|[2512.20761](http://arxiv.org/abs/2512.20761)|
+|**2025-12-23**|**Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection**|Xingyou Yin et.al.|[2512.20140](http://arxiv.org/abs/2512.20140)|
+|**2025-12-19**|**Spatially-informed transformers: Injecting geostatistical covariance biases into self-attention for spatio-temporal forecasting**|Yuri Calleo et.al.|[2512.17696](http://arxiv.org/abs/2512.17696)|
+|**2025-12-19**|**A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting**|Henok Tenaw Moges et.al.|[2512.17453](http://arxiv.org/abs/2512.17453)|
 |**2025-12-17**|**Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting**|Defu Cao et.al.|[2512.16022](http://arxiv.org/abs/2512.16022)|
 |**2025-12-16**|**FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting**|Xingjian Wu et.al.|[2512.14253](http://arxiv.org/abs/2512.14253)|
 |**2025-12-09**|**SPROCKET: Extending ROCKET to Distance-Based Time-Series Transformations With Prototypes**|Nicholas Harner et.al.|[2512.08246](http://arxiv.org/abs/2512.08246)|
@@ -258,6 +273,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|
+|**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Kanata Suzuki et.al.|[2512.20876](http://arxiv.org/abs/2512.20876)|
+|**2025-12-23**|**Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition**|Gorjan Radevski et.al.|[2512.20501](http://arxiv.org/abs/2512.20501)|
+|**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|V. Kovalev et.al.|[2512.20362](http://arxiv.org/abs/2512.20362)|
+|**2025-12-23**|**DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation**|Jingqi Tian et.al.|[2512.20117](http://arxiv.org/abs/2512.20117)|
+|**2025-12-23**|**Beyond Vision: Contextually Enriched Image Captioning with Multi-Modal Retrieva**|Nguyen Lam Phu Quy et.al.|[2512.20042](http://arxiv.org/abs/2512.20042)|
+|**2025-12-22**|**MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture**|Hui Li et.al.|[2512.19311](http://arxiv.org/abs/2512.19311)|
+|**2025-12-22**|**Efficient Personalization of Generative Models via Optimal Experimental Design**|Guy Schacht et.al.|[2512.19057](http://arxiv.org/abs/2512.19057)|
+|**2025-12-19**|**Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing**|Shilong Zhang et.al.|[2512.17909](http://arxiv.org/abs/2512.17909)|
+|**2025-12-19**|**A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs**|Yunkai Dang et.al.|[2512.17319](http://arxiv.org/abs/2512.17319)|
 |**2025-12-18**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|
 |**2025-12-18**|**Geometric Disentanglement of Text Embeddings for Subject-Consistent Text-to-Image Generation using A Single Prompt**|Shangxun Li et.al.|[2512.16443](http://arxiv.org/abs/2512.16443)|
 |**2025-12-18**|**Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models**|Mariam Hassan et.al.|[2512.16371](http://arxiv.org/abs/2512.16371)|
