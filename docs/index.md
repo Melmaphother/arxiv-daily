@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-29**|**Web World Models**|Jichen Feng et.al.|[2512.23676](http://arxiv.org/abs/2512.23676)|
+|**2025-12-29**|**Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control**|Zhe Li et.al.|[2512.23650](http://arxiv.org/abs/2512.23650)|
+|**2025-12-29**|**Nested Browser-Use Learning for Agentic Information Seeking**|Baixuan Li et.al.|[2512.23647](http://arxiv.org/abs/2512.23647)|
+|**2025-12-29**|**BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization**|Iris Xu et.al.|[2512.23631](http://arxiv.org/abs/2512.23631)|
+|**2025-12-29**|**Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing**|Yuwen Li et.al.|[2512.23611](http://arxiv.org/abs/2512.23611)|
+|**2025-12-29**|**ThinkGen: Generalized Thinking for Visual Generation**|Siyu Jiao et.al.|[2512.23568](http://arxiv.org/abs/2512.23568)|
+|**2025-12-29**|**Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities**|Alessio Benavoli et.al.|[2512.23508](http://arxiv.org/abs/2512.23508)|
+|**2025-12-29**|**AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices**|Brice Arléon Zemtsop Ndadji et.al.|[2512.23499](http://arxiv.org/abs/2512.23499)|
+|**2025-12-29**|**Assessing behaviour coverage in a multi-agent system simulation for autonomous vehicle testing**|Manuel Franco-Vivo et.al.|[2512.23445](http://arxiv.org/abs/2512.23445)|
+|**2025-12-29**|**Optimal Scalability-Aware Allocation of Swarm Robots: From Linear to Retrograde Performance via Marginal Gains**|Simay Atasoy Bingöl et.al.|[2512.23431](http://arxiv.org/abs/2512.23431)|
 |**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|
 |**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|
 |**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|
@@ -174,7 +184,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
-|**2025-12-24**|**Learning the Macroeconomic Language**|Siddhartha Chib et.al.|[2512.21031](http://arxiv.org/abs/2512.21031)|
+|**2025-12-25**|**RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models**|Anthony Bolton et.al.|[2512.21572](http://arxiv.org/abs/2512.21572)|
+|**2025-12-24**|**Dynamic Attention (DynAttn): Interpretable High-Dimensional Spatio-Temporal Forecasting (with Application to Conflict Fatalities)**|Stefano M. Iacus et.al.|[2512.21435](http://arxiv.org/abs/2512.21435)|
+|**2025-12-27**|**Learning the Macroeconomic Language**|Siddhartha Chib et.al.|[2512.21031](http://arxiv.org/abs/2512.21031)|
 |**2025-12-23**|**TS-Arena Technical Report -- A Pre-registered Live Forecasting Platform**|Marcel Meyer et.al.|[2512.20761](http://arxiv.org/abs/2512.20761)|
 |**2025-12-23**|**Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection**|Xingyou Yin et.al.|[2512.20140](http://arxiv.org/abs/2512.20140)|
 |**2025-12-19**|**Spatially-informed transformers: Injecting geostatistical covariance biases into self-attention for spatio-temporal forecasting**|Yuri Calleo et.al.|[2512.17696](http://arxiv.org/abs/2512.17696)|
@@ -273,6 +285,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2025-12-29**|**OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding**|Keda Tao et.al.|[2512.23646](http://arxiv.org/abs/2512.23646)|
+|**2025-12-29**|**LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation**|Ethan Chern et.al.|[2512.23576](http://arxiv.org/abs/2512.23576)|
+|**2025-12-29**|**PurifyGen: A Risk-Discrimination and Semantic-Purification Model for Safe Text-to-Image Generation**|Zongsheng Cao et.al.|[2512.23546](http://arxiv.org/abs/2512.23546)|
+|**2025-12-29**|**Visual Language Hypothesis**|Xiu Li et.al.|[2512.23335](http://arxiv.org/abs/2512.23335)|
+|**2025-12-29**|**Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism**|Siyu Zhang et.al.|[2512.23243](http://arxiv.org/abs/2512.23243)|
+|**2025-12-29**|**Bridging Your Imagination with Audio-Video Generation via a Unified Director**|Jiaxu Zhang et.al.|[2512.23222](http://arxiv.org/abs/2512.23222)|
+|**2025-12-27**|**CritiFusion: Semantic Critique and Spectral Alignment for Faithful Text-to-Image Generation**|ZhenQi Chen et.al.|[2512.22681](http://arxiv.org/abs/2512.22681)|
+|**2025-12-26**|**Self-Evaluation Unlocks Any-Step Text-to-Image Generation**|Xin Yu et.al.|[2512.22374](http://arxiv.org/abs/2512.22374)|
+|**2025-12-25**|**UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture**|Shuo Cao et.al.|[2512.21675](http://arxiv.org/abs/2512.21675)|
+|**2025-12-25**|**LLM-Free Image Captioning Evaluation in Reference-Flexible Settings**|Shinnosuke Hirano et.al.|[2512.21582](http://arxiv.org/abs/2512.21582)|
 |**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|
 |**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Kanata Suzuki et.al.|[2512.20876](http://arxiv.org/abs/2512.20876)|
 |**2025-12-23**|**Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition**|Gorjan Radevski et.al.|[2512.20501](http://arxiv.org/abs/2512.20501)|
