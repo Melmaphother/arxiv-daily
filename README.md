@@ -1,4 +1,4 @@
-## Updated on 2026.01.06
+## Updated on 2026.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Zhuoyang Liu et.al.|[2601.05248](http://arxiv.org/abs/2601.05248)|
+|**2026-01-08**|**Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration**|Xingyi He et.al.|[2601.05243](http://arxiv.org/abs/2601.05243)|
+|**2026-01-08**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|
+|**2026-01-08**|**VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice**|Shuming Liu et.al.|[2601.05175](http://arxiv.org/abs/2601.05175)|
+|**2026-01-08**|**Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing**|Runze He et.al.|[2601.05124](http://arxiv.org/abs/2601.05124)|
+|**2026-01-08**|**Agent-as-a-Judge**|Runyang You et.al.|[2601.05111](http://arxiv.org/abs/2601.05111)|
+|**2026-01-08**|**GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts**|Wenhao Zeng et.al.|[2601.05110](http://arxiv.org/abs/2601.05110)|
+|**2026-01-08**|**Arabic Prompts with English Tools: A Benchmark**|Konstantin Kubrak et.al.|[2601.05101](http://arxiv.org/abs/2601.05101)|
+|**2026-01-08**|**Chain-of-Sanitized-Thoughts: Plugging PII Leakage in CoT of Large Reasoning Models**|Arghyadeep Das et.al.|[2601.05076](http://arxiv.org/abs/2601.05076)|
+|**2026-01-08**|**FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting**|Xiangyu Li et.al.|[2601.05039](http://arxiv.org/abs/2601.05039)|
 |**2026-01-02**|**LLM Agents for Combinatorial Efficient Frontiers: Investment Portfolio Optimization**|Simon Paquette-Greenbaum et.al.|[2601.00770](http://arxiv.org/abs/2601.00770)|
 |**2026-01-02**|**Early-Stage Prediction of Review Effort in AI-Generated Pull Requests**|Dao Sy Duy Minh et.al.|[2601.00753](http://arxiv.org/abs/2601.00753)|
 |**2026-01-02**|**The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving**|Max Ruiz Luyten et.al.|[2601.00747](http://arxiv.org/abs/2601.00747)|
@@ -195,12 +205,16 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-06**|**STIPP: Space-time in situ postprocessing over the French Alps using proper scoring rules**|David Landry et.al.|[2601.02882](http://arxiv.org/abs/2601.02882)|
+|**2026-01-05**|**Spatio-temporal modeling and forecasting with Fourier neural operators**|Pratik Nag et.al.|[2601.01813](http://arxiv.org/abs/2601.01813)|
+|**2026-01-02**|**Zero-shot Forecasting by Simulation Alone**|Boris N. Oreshkin et.al.|[2601.00970](http://arxiv.org/abs/2601.00970)|
+|**2025-12-30**|**Universal Battery Degradation Forecasting Driven by Foundation Model Across Diverse Chemistries and Conditions**|Joey Chan et.al.|[2601.00862](http://arxiv.org/abs/2601.00862)|
 |**2026-01-02**|**BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting**|Maximilian Reinwardt et.al.|[2601.00698](http://arxiv.org/abs/2601.00698)|
 |**2026-01-01**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al.|[2601.00446](http://arxiv.org/abs/2601.00446)|
 |**2025-12-25**|**RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models**|Anthony Bolton et.al.|[2512.21572](http://arxiv.org/abs/2512.21572)|
@@ -300,12 +314,21 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-08**|**HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment**|Wenzhi Chen et.al.|[2601.04614](http://arxiv.org/abs/2601.04614)|
+|**2026-01-07**|**Unified Text-Image Generation with Weakness-Targeted Post-Training**|Jiahui Chen et.al.|[2601.04339](http://arxiv.org/abs/2601.04339)|
+|**2026-01-06**|**Unified Thinker: A General Reasoning Modular Core for Image Generation**|Sashuai Zhou et.al.|[2601.03127](http://arxiv.org/abs/2601.03127)|
+|**2026-01-05**|**Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion**|Binglei Li et.al.|[2601.02211](http://arxiv.org/abs/2601.02211)|
+|**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/abs/2601.02107)|
+|**2026-01-08**|**Agentic Retoucher for Text-To-Image Generation**|Shaocheng Shen et.al.|[2601.02046](http://arxiv.org/abs/2601.02046)|
+|**2026-01-05**|**Entity-Guided Multi-Task Learning for Infrared and Visible Image Fusion**|Wenyu Shao et.al.|[2601.01870](http://arxiv.org/abs/2601.01870)|
+|**2026-01-03**|**SPoRC-VIST: A Benchmark for Evaluating Generative Natural Narrative in Vision-Language Models**|Yunlin Zeng et.al.|[2601.01062](http://arxiv.org/abs/2601.01062)|
+|**2026-01-02**|**VEAT Quantifies Implicit Associations in Text-to-Video Generator Sora and Reveals Challenges in Bias Mitigation**|Yongxu Sun et.al.|[2601.00996](http://arxiv.org/abs/2601.00996)|
 |**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|
 |**2025-12-31**|**PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation**|Yuanhao Cai et.al.|[2512.24551](http://arxiv.org/abs/2512.24551)|
 |**2025-12-30**|**FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing**|Yunkai Dang et.al.|[2512.24022](http://arxiv.org/abs/2512.24022)|
@@ -444,7 +467,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
