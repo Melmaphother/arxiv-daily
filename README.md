@@ -1,4 +1,4 @@
-## Updated on 2026.01.12
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-14**|**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**|Chi-Pin Huang et.al.|[2601.09708](http://arxiv.org/abs/2601.09708)|
+|**2026-01-14**|**LLMs can Compress LLMs: Adaptive Pruning by Agents**|Sai Varun Kodathala et.al.|[2601.09694](http://arxiv.org/abs/2601.09694)|
+|**2026-01-14**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|
+|**2026-01-14**|**LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach**|Kuo Liang et.al.|[2601.09635](http://arxiv.org/abs/2601.09635)|
+|**2026-01-14**|**LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation**|Stergios Chatzikyriakidis et.al.|[2601.09631](http://arxiv.org/abs/2601.09631)|
+|**2026-01-14**|**The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multi-Step Malware**|Ben Nassi et.al.|[2601.09625](http://arxiv.org/abs/2601.09625)|
+|**2026-01-14**|**DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing**|Qian Cao et.al.|[2601.09609](http://arxiv.org/abs/2601.09609)|
+|**2026-01-14**|**What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding**|Siyuan Liu et.al.|[2601.09503](http://arxiv.org/abs/2601.09503)|
+|**2026-01-14**|**Dissecting Judicial Reasoning in U.S. Copyright Damage Awards**|Pei-Chi Lo et.al.|[2601.09459](http://arxiv.org/abs/2601.09459)|
+|**2026-01-14**|**SC-MAS: Constructing Cost-Efficient Multi-Agent Systems with Edge-Level Heterogeneous Collaboration**|Di Zhao et.al.|[2601.09434](http://arxiv.org/abs/2601.09434)|
 |**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Zhuoyang Liu et.al.|[2601.05248](http://arxiv.org/abs/2601.05248)|
 |**2026-01-08**|**Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration**|Xingyi He et.al.|[2601.05243](http://arxiv.org/abs/2601.05243)|
 |**2026-01-08**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|
@@ -205,12 +215,15 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-14**|**XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs**|Xinyang Chen et.al.|[2601.09237](http://arxiv.org/abs/2601.09237)|
+|**2026-01-10**|**A Unified Shape-Aware Foundation Model for Time Series Classification**|Zhen Liu et.al.|[2601.06429](http://arxiv.org/abs/2601.06429)|
+|**2026-01-10**|**The Promise of Time-Series Foundation Models for Agricultural Forecasting: Evidence from Marketing Year Average Prices**|Le Wang et.al.|[2601.06371](http://arxiv.org/abs/2601.06371)|
 |**2026-01-06**|**STIPP: Space-time in situ postprocessing over the French Alps using proper scoring rules**|David Landry et.al.|[2601.02882](http://arxiv.org/abs/2601.02882)|
 |**2026-01-05**|**Spatio-temporal modeling and forecasting with Fourier neural operators**|Pratik Nag et.al.|[2601.01813](http://arxiv.org/abs/2601.01813)|
 |**2026-01-02**|**Zero-shot Forecasting by Simulation Alone**|Boris N. Oreshkin et.al.|[2601.00970](http://arxiv.org/abs/2601.00970)|
@@ -314,12 +327,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-14**|**Multi-Modal LLM based Image Captioning in ICT: Bridging the Gap Between General and Industry Domain**|Lianying Chao et.al.|[2601.09298](http://arxiv.org/abs/2601.09298)|
+|**2026-01-12**|**Representations of Text and Images Align From Layer One**|Evžen Wybitul et.al.|[2601.08017](http://arxiv.org/abs/2601.08017)|
+|**2026-01-12**|**Evaluating the encoding competence of visual language models using uncommon actions**|Chen Ling et.al.|[2601.07737](http://arxiv.org/abs/2601.07737)|
+|**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[2601.07333](http://arxiv.org/abs/2601.07333)|
+|**2026-01-10**|**Sissi: Zero-shot Style-guided Image Synthesis via Semantic-style Integration**|Yingying Deng et.al.|[2601.06605](http://arxiv.org/abs/2601.06605)|
+|**2026-01-10**|**APEX: Learning Adaptive Priorities for Multi-Objective Alignment in Vision-Language Generation**|Dongliang Chen et.al.|[2601.06574](http://arxiv.org/abs/2601.06574)|
+|**2026-01-09**|**Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers**|Binxu Wang et.al.|[2601.06338](http://arxiv.org/abs/2601.06338)|
+|**2026-01-09**|**Context-Aware Decoding for Faithful Vision-Language Generation**|Mehrdad Fazli et.al.|[2601.05939](http://arxiv.org/abs/2601.05939)|
+|**2026-01-09**|**TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment**|Jin Wang et.al.|[2601.05729](http://arxiv.org/abs/2601.05729)|
+|**2026-01-09**|**GenCtrl -- A Formal Controllability Toolkit for Generative Models**|Emily Cheng et.al.|[2601.05637](http://arxiv.org/abs/2601.05637)|
 |**2026-01-08**|**HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment**|Wenzhi Chen et.al.|[2601.04614](http://arxiv.org/abs/2601.04614)|
 |**2026-01-07**|**Unified Text-Image Generation with Weakness-Targeted Post-Training**|Jiahui Chen et.al.|[2601.04339](http://arxiv.org/abs/2601.04339)|
 |**2026-01-06**|**Unified Thinker: A General Reasoning Modular Core for Image Generation**|Sashuai Zhou et.al.|[2601.03127](http://arxiv.org/abs/2601.03127)|
@@ -467,7 +490,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
