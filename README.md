@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-22**|**Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics**|Sukesh Subaharan et.al.|[2601.16087](http://arxiv.org/abs/2601.16087)|
+|**2026-01-22**|**Introducing the Generative Application Firewall (GAF)**|Joan Vendrell Farreny et.al.|[2601.15824](http://arxiv.org/abs/2601.15824)|
+|**2026-01-22**|**Agentic Confidence Calibration**|Jiaxin Zhang et.al.|[2601.15778](http://arxiv.org/abs/2601.15778)|
+|**2026-01-22**|**Materealize: a multi-agent deliberation system for end-to-end material design and synthesis**|Seongmin Kim et.al.|[2601.15743](http://arxiv.org/abs/2601.15743)|
+|**2026-01-22**|**VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning**|Chenglin Li et.al.|[2601.15724](http://arxiv.org/abs/2601.15724)|
+|**2026-01-22**|**Agentic Uncertainty Quantification**|Jiaxin Zhang et.al.|[2601.15703](http://arxiv.org/abs/2601.15703)|
+|**2026-01-22**|**From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models**|Jiaxin Zhang et.al.|[2601.15690](http://arxiv.org/abs/2601.15690)|
+|**2026-01-22**|**Improving Methodologies for Agentic Evaluations Across Domains: Leakage of Sensitive Information, Fraud and Cybersecurity Threats**|Ee Wei Seah et.al.|[2601.15679](http://arxiv.org/abs/2601.15679)|
+|**2026-01-22**|**Bridging the Perception Gap: A Lightweight Coarse-to-Fine Architecture for Edge Audio Systems**|Hengfan Zhang et.al.|[2601.15676](http://arxiv.org/abs/2601.15676)|
+|**2026-01-22**|**EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning**|Dingdong Wang et.al.|[2601.15668](http://arxiv.org/abs/2601.15668)|
 |**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|
 |**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|
 |**2026-01-16**|**The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents**|Eilam Shapira et.al.|[2601.11496](http://arxiv.org/abs/2601.11496)|
@@ -225,16 +235,20 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-22**|**Dualformer: Time-Frequency Dual Domain Learning for Long-term Time Series Forecasting**|Jingjing Bai et.al.|[2601.15669](http://arxiv.org/abs/2601.15669)|
+|**2026-01-19**|**Distilling Time Series Foundation Models for Efficient Forecasting**|Yuqi Li et.al.|[2601.12785](http://arxiv.org/abs/2601.12785)|
+|**2026-01-18**|**Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models**|Megha Thukral et.al.|[2601.12215](http://arxiv.org/abs/2601.12215)|
+|**2026-01-16**|**Shapelets-Enriched Selective Forecasting using Time Series Foundation Models**|Shivani Tomar et.al.|[2601.11821](http://arxiv.org/abs/2601.11821)|
 |**2026-01-15**|**ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition**|Arundeep Chinta et.al.|[2601.10591](http://arxiv.org/abs/2601.10591)|
 |**2026-01-14**|**XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs**|Xinyang Chen et.al.|[2601.09237](http://arxiv.org/abs/2601.09237)|
 |**2026-01-10**|**A Unified Shape-Aware Foundation Model for Time Series Classification**|Zhen Liu et.al.|[2601.06429](http://arxiv.org/abs/2601.06429)|
-|**2026-01-10**|**The Promise of Time-Series Foundation Models for Agricultural Forecasting: Evidence from Marketing Year Average Prices**|Le Wang et.al.|[2601.06371](http://arxiv.org/abs/2601.06371)|
+|**2026-01-18**|**The Promise of Time-Series Foundation Models for Agricultural Forecasting: Evidence from Commodity Prices**|Le Wang et.al.|[2601.06371](http://arxiv.org/abs/2601.06371)|
 |**2026-01-06**|**STIPP: Space-time in situ postprocessing over the French Alps using proper scoring rules**|David Landry et.al.|[2601.02882](http://arxiv.org/abs/2601.02882)|
 |**2026-01-05**|**Spatio-temporal modeling and forecasting with Fourier neural operators**|Pratik Nag et.al.|[2601.01813](http://arxiv.org/abs/2601.01813)|
 |**2026-01-02**|**Zero-shot Forecasting by Simulation Alone**|Boris N. Oreshkin et.al.|[2601.00970](http://arxiv.org/abs/2601.00970)|
@@ -338,12 +352,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|
+|**2026-01-22**|**Endowing Molecular Language with Geometry Perception via Modality Compensation for High-Throughput Quantum Hamiltonian Prediction**|Zhenzhong Wang et.al.|[2601.15786](http://arxiv.org/abs/2601.15786)|
+|**2026-01-22**|**Evolving Without Ending: Unifying Multimodal Incremental Learning for Continual Panoptic Perception**|Bo Yuan et.al.|[2601.15643](http://arxiv.org/abs/2601.15643)|
+|**2026-01-21**|**Ambient Dataloops: Generative Models for Dataset Refinement**|Adrián Rodríguez-Muñoz et.al.|[2601.15417](http://arxiv.org/abs/2601.15417)|
+|**2026-01-21**|**OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation**|Letian Zhang et.al.|[2601.15369](http://arxiv.org/abs/2601.15369)|
+|**2026-01-21**|**InstructTime++: Time Series Classification with Multimodal Language Modeling via Implicit Feature Enhancement**|Mingyue Cheng et.al.|[2601.14968](http://arxiv.org/abs/2601.14968)|
+|**2026-01-21**|**Enhancing Text-to-Image Generation via End-Edge Collaborative Hybrid Super-Resolution**|Chongbin Yi et.al.|[2601.14741](http://arxiv.org/abs/2601.14741)|
+|**2026-01-21**|**3D Space as a Scratchpad for Editable Text-to-Image Generation**|Oindrila Saha et.al.|[2601.14602](http://arxiv.org/abs/2601.14602)|
+|**2026-01-20**|**OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer**|Pengze Zhang et.al.|[2601.14250](http://arxiv.org/abs/2601.14250)|
+|**2026-01-20**|**Audio Outperforms Text for Visual Decoding**|Zhengdi Zhang et.al.|[2601.13866](http://arxiv.org/abs/2601.13866)|
 |**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](http://arxiv.org/abs/2601.10781)|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](http://arxiv.org/abs/2601.10305)|
 |**2026-01-15**|**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**|Piyush Singh Pasi et.al.|[2601.10096](http://arxiv.org/abs/2601.10096)|
@@ -505,7 +529,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
