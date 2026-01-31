@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|
+|**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|
+|**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|
+|**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|
+|**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|
+|**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|
+|**2026-01-29**|**Learning to Communicate Across Modalities: Perceptual Heterogeneity in Multi-Agent Systems**|Naomi Pitzer et.al.|[2601.22041](http://arxiv.org/abs/2601.22041)|
+|**2026-01-29**|**Optimizing Agentic Workflows using Meta-tools**|Sami Abuzakuk et.al.|[2601.22037](http://arxiv.org/abs/2601.22037)|
+|**2026-01-29**|**Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models**|Longxuan Yu et.al.|[2601.22035](http://arxiv.org/abs/2601.22035)|
+|**2026-01-29**|**CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty**|Johannes Kirmayr et.al.|[2601.22027](http://arxiv.org/abs/2601.22027)|
 |**2026-01-22**|**Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics**|Sukesh Subaharan et.al.|[2601.16087](http://arxiv.org/abs/2601.16087)|
 |**2026-01-22**|**Introducing the Generative Application Firewall (GAF)**|Joan Vendrell Farreny et.al.|[2601.15824](http://arxiv.org/abs/2601.15824)|
 |**2026-01-22**|**Agentic Confidence Calibration**|Jiaxin Zhang et.al.|[2601.15778](http://arxiv.org/abs/2601.15778)|
@@ -235,12 +245,22 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-29**|**MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts**|Evandro S. Ortigossa et.al.|[2601.21866](http://arxiv.org/abs/2601.21866)|
+|**2026-01-29**|**A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting**|Francisco Caldas et.al.|[2601.21812](http://arxiv.org/abs/2601.21812)|
+|**2026-01-29**|**Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers**|Evandro S. Ortigossa et.al.|[2601.21641](http://arxiv.org/abs/2601.21641)|
+|**2026-01-29**|**Position: Certifiable State Integrity in Cyber-Physical Systems -- Why Modular Sovereignty Solves the Plasticity-Stability Paradox**|Enzo Nicolás Spotorno et.al.|[2601.21249](http://arxiv.org/abs/2601.21249)|
+|**2026-01-28**|**A Tolerance-Based Framework for Spatio-Temporal Forecast Validation Using the gamma-Index**|Cyril Voyant et.al.|[2601.21004](http://arxiv.org/abs/2601.21004)|
+|**2026-01-28**|**PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting**|Olaf Yunus Laitinen Imanov et.al.|[2601.20845](http://arxiv.org/abs/2601.20845)|
+|**2026-01-28**|**A Foundation Model for Virtual Sensors**|Leon Götz et.al.|[2601.20634](http://arxiv.org/abs/2601.20634)|
+|**2026-01-27**|**Grasynda: Graph-based Synthetic Time Series Generation**|Luis Amorim et.al.|[2601.19668](http://arxiv.org/abs/2601.19668)|
+|**2026-01-27**|**TS-Debate: Multimodal Collaborative Debate for Zero-Shot Time Series Reasoning**|Patara Trirat et.al.|[2601.19151](http://arxiv.org/abs/2601.19151)|
+|**2026-01-26**|**OATS: Online Data Augmentation for Time Series Foundation Models**|Junwei Deng et.al.|[2601.19040](http://arxiv.org/abs/2601.19040)|
 |**2026-01-22**|**Dualformer: Time-Frequency Dual Domain Learning for Long-term Time Series Forecasting**|Jingjing Bai et.al.|[2601.15669](http://arxiv.org/abs/2601.15669)|
 |**2026-01-19**|**Distilling Time Series Foundation Models for Efficient Forecasting**|Yuqi Li et.al.|[2601.12785](http://arxiv.org/abs/2601.12785)|
 |**2026-01-18**|**Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models**|Megha Thukral et.al.|[2601.12215](http://arxiv.org/abs/2601.12215)|
@@ -352,12 +372,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-01-29**|**MultiModal Fine-tuning with Synthetic Captions**|Shohei Enomoto et.al.|[2601.21426](http://arxiv.org/abs/2601.21426)|
+|**2026-01-28**|**Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought**|Yu Huo et.al.|[2601.21081](http://arxiv.org/abs/2601.21081)|
+|**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[2601.20791](http://arxiv.org/abs/2601.20791)|
+|**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Pankhi Kashyap et.al.|[2601.20675](http://arxiv.org/abs/2601.20675)|
+|**2026-01-28**|**GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection**|Shuguang Zhang et.al.|[2601.20618](http://arxiv.org/abs/2601.20618)|
+|**2026-01-29**|**MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models**|Wenbo Xu et.al.|[2601.20433](http://arxiv.org/abs/2601.20433)|
+|**2026-01-28**|**DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment**|Haoyou Deng et.al.|[2601.20218](http://arxiv.org/abs/2601.20218)|
+|**2026-01-27**|**Decomposing multimodal embedding spaces with group-sparse autoencoders**|Chiraag Kaushik et.al.|[2601.20028](http://arxiv.org/abs/2601.20028)|
+|**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](http://arxiv.org/abs/2601.18929)|
+|**2026-01-26**|**Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**|Xiao Liu et.al.|[2601.18698](http://arxiv.org/abs/2601.18698)|
 |**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|
 |**2026-01-22**|**Endowing Molecular Language with Geometry Perception via Modality Compensation for High-Throughput Quantum Hamiltonian Prediction**|Zhenzhong Wang et.al.|[2601.15786](http://arxiv.org/abs/2601.15786)|
 |**2026-01-22**|**Evolving Without Ending: Unifying Multimodal Incremental Learning for Continual Panoptic Perception**|Bo Yuan et.al.|[2601.15643](http://arxiv.org/abs/2601.15643)|
@@ -529,7 +559,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
