@@ -1,4 +1,4 @@
-## Updated on 2026.02.02
+## Updated on 2026.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|
+|**2026-02-04**|**Fluid Representations in Reasoning Models**|Dmitrii Kharlapenko et.al.|[2602.04843](http://arxiv.org/abs/2602.04843)|
+|**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](http://arxiv.org/abs/2602.04763)|
+|**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[2602.04755](http://arxiv.org/abs/2602.04755)|
+|**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|
+|**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|
+|**2026-02-04**|**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**|Zelai Xu et.al.|[2602.04634](http://arxiv.org/abs/2602.04634)|
+|**2026-02-04**|**Vibe AIGC: A New Paradigm for Content Generation via Agentic Orchestration**|Jiaheng Liu et.al.|[2602.04575](http://arxiv.org/abs/2602.04575)|
+|**2026-02-04**|**Understanding Degradation with Vision Language Model**|Guanzhou Lan et.al.|[2602.04565](http://arxiv.org/abs/2602.04565)|
+|**2026-02-04**|**Learning the Value Systems of Agents with Preference-based and Inverse Reinforcement Learning**|Andrés Holgado-Sánchez et.al.|[2602.04518](http://arxiv.org/abs/2602.04518)|
 |**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|
 |**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|
 |**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|
@@ -245,12 +255,21 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-02**|**Back to the Future: Look-ahead Augmentation and Parallel Self-Refinement for Time Series Forecasting**|Sunho Kim et.al.|[2602.02146](http://arxiv.org/abs/2602.02146)|
+|**2026-02-02**|**Universal Redundancies in Time Series Foundation Models**|Anthony Bao et.al.|[2602.01605](http://arxiv.org/abs/2602.01605)|
+|**2026-02-02**|**A Lightweight Sparse Interaction Network for Time Series Forecasting**|Xu Zhang et.al.|[2602.01585](http://arxiv.org/abs/2602.01585)|
+|**2026-02-01**|**Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective**|Zhichao Chen et.al.|[2602.01182](http://arxiv.org/abs/2602.01182)|
+|**2026-01-31**|**MoDEx: Mixture of Depth-specific Experts for Multivariate Long-term Time Series Forecasting**|Hyekyung Yoon et.al.|[2602.00624](http://arxiv.org/abs/2602.00624)|
+|**2026-01-31**|**Rethinking Zero-Shot Time Series Classification: From Task-specific Classifiers to In-Context Inference**|Juntao Fang et.al.|[2602.00620](http://arxiv.org/abs/2602.00620)|
+|**2026-02-02**|**To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series**|Jiaming Ma et.al.|[2601.23114](http://arxiv.org/abs/2601.23114)|
+|**2026-01-30**|**Synthetic Time Series Generation via Complex Networks**|Jaime Vale et.al.|[2601.22879](http://arxiv.org/abs/2601.22879)|
+|**2026-01-30**|**Unconditional flow-based time series generation with equivariance-regularised latent spaces**|Camilo Carvajal Reyes et.al.|[2601.22848](http://arxiv.org/abs/2601.22848)|
 |**2026-01-29**|**MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts**|Evandro S. Ortigossa et.al.|[2601.21866](http://arxiv.org/abs/2601.21866)|
 |**2026-01-29**|**A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting**|Francisco Caldas et.al.|[2601.21812](http://arxiv.org/abs/2601.21812)|
 |**2026-01-29**|**Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers**|Evandro S. Ortigossa et.al.|[2601.21641](http://arxiv.org/abs/2601.21641)|
@@ -372,12 +391,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-04**|**Adaptive Prompt Elicitation for Text-to-Image Generation**|Xinyi Wen et.al.|[2602.04713](http://arxiv.org/abs/2602.04713)|
+|**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|
+|**2026-02-04**|**Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design**|Jaemoo Choi et.al.|[2602.04663](http://arxiv.org/abs/2602.04663)|
+|**2026-02-04**|**VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents**|Feng Wang et.al.|[2602.04202](http://arxiv.org/abs/2602.04202)|
+|**2026-02-03**|**PromptSplit: Revealing Prompt-Level Disagreement in Generative Models**|Mehdi Lotfian et.al.|[2602.04009](http://arxiv.org/abs/2602.04009)|
+|**2026-02-03**|**Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance**|Yingjie Zhu et.al.|[2602.03491](http://arxiv.org/abs/2602.03491)|
+|**2026-02-03**|**Contextualized Visual Personalization in Vision-Language Models**|Yeongtak Oh et.al.|[2602.03454](http://arxiv.org/abs/2602.03454)|
+|**2026-02-03**|**Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth**|Faye Zhang et.al.|[2602.02961](http://arxiv.org/abs/2602.02961)|
+|**2026-02-02**|**Training-Free Self-Correction for Multimodal Masked Diffusion Models**|Yidong Ouyang et.al.|[2602.02927](http://arxiv.org/abs/2602.02927)|
+|**2026-02-02**|**DoubleTake: Contrastive Reasoning for Faithful Decision-Making in Medical Imaging**|Daivik Patel et.al.|[2602.02894](http://arxiv.org/abs/2602.02894)|
 |**2026-01-29**|**MultiModal Fine-tuning with Synthetic Captions**|Shohei Enomoto et.al.|[2601.21426](http://arxiv.org/abs/2601.21426)|
 |**2026-01-28**|**Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought**|Yu Huo et.al.|[2601.21081](http://arxiv.org/abs/2601.21081)|
 |**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[2601.20791](http://arxiv.org/abs/2601.20791)|
@@ -559,7 +588,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
