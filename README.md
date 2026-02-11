@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-09**|**A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents**|Raghu Arghal et.al.|[2602.08964](http://arxiv.org/abs/2602.08964)|
+|**2026-02-09**|**Digital Twin and Agentic AI for Wild Fire Disaster Management: Intelligent Virtual Situation Room**|Mohammad Morsali et.al.|[2602.08949](http://arxiv.org/abs/2602.08949)|
+|**2026-02-09**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al.|[2602.08868](http://arxiv.org/abs/2602.08868)|
+|**2026-02-09**|**Global well-posedness for one-dimensional compressible Navier--Stokes system in dynamic combustion with small $BV\cap L^1$ initial data**|Siran Li et.al.|[2602.08867](http://arxiv.org/abs/2602.08867)|
+|**2026-02-09**|**Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems**|Lang Feng et.al.|[2602.08847](http://arxiv.org/abs/2602.08847)|
+|**2026-02-09**|**Learning the Value Systems of Societies with Preference-based Multi-objective Reinforcement Learning**|Andrés Holgado-Sánchez et.al.|[2602.08835](http://arxiv.org/abs/2602.08835)|
+|**2026-02-09**|**Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure**|Zirui Li et.al.|[2602.08783](http://arxiv.org/abs/2602.08783)|
+|**2026-02-09**|**LLM-Enhanced Wearables for Comprehensible Health Guidance in LMICs**|Mohammad Shaharyar Ahsan et.al.|[2602.08701](http://arxiv.org/abs/2602.08701)|
+|**2026-02-09**|**Reasoning aligns language models to human cognition**|Gonçalo Guiomar et.al.|[2602.08693](http://arxiv.org/abs/2602.08693)|
+|**2026-02-09**|**6G-Bench: An Open Benchmark for Semantic Communication and Network-Level Reasoning with Foundation Models in AI-Native 6G Networks**|Mohamed Amine Ferrag et.al.|[2602.08675](http://arxiv.org/abs/2602.08675)|
 |**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|
 |**2026-02-04**|**Fluid Representations in Reasoning Models**|Dmitrii Kharlapenko et.al.|[2602.04843](http://arxiv.org/abs/2602.04843)|
 |**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](http://arxiv.org/abs/2602.04763)|
@@ -255,12 +265,18 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-06**|**Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models**|Yunshi Wen et.al.|[2602.06909](http://arxiv.org/abs/2602.06909)|
+|**2026-02-06**|**T-STAR: A Context-Aware Transformer Framework for Short-Term Probabilistic Demand Forecasting in Dock-Based Shared Micro-Mobility**|Jingyi Cheng et.al.|[2602.06866](http://arxiv.org/abs/2602.06866)|
+|**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|Peng Chen et.al.|[2602.05646](http://arxiv.org/abs/2602.05646)|
+|**2026-02-05**|**Day-Ahead Electricity Price Forecasting for Volatile Markets Using Foundation Models with Regularization Strategy**|Kritchanat Ponyuenyong et.al.|[2602.05430](http://arxiv.org/abs/2602.05430)|
+|**2026-02-05**|**Assessing Electricity Demand Forecasting with Exogenous Data in Time Series Foundation Models**|Wei Soon Cheong et.al.|[2602.05390](http://arxiv.org/abs/2602.05390)|
+|**2026-02-05**|**Position: Universal Time Series Foundation Models Rest on a Category Error**|Xilin Dai et.al.|[2602.05287](http://arxiv.org/abs/2602.05287)|
 |**2026-02-02**|**Back to the Future: Look-ahead Augmentation and Parallel Self-Refinement for Time Series Forecasting**|Sunho Kim et.al.|[2602.02146](http://arxiv.org/abs/2602.02146)|
 |**2026-02-02**|**Universal Redundancies in Time Series Foundation Models**|Anthony Bao et.al.|[2602.01605](http://arxiv.org/abs/2602.01605)|
 |**2026-02-02**|**A Lightweight Sparse Interaction Network for Time Series Forecasting**|Xu Zhang et.al.|[2602.01585](http://arxiv.org/abs/2602.01585)|
@@ -391,12 +407,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|
+|**2026-02-09**|**Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing**|Hao Yang et.al.|[2602.08820](http://arxiv.org/abs/2602.08820)|
+|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|
+|**2026-02-07**|**SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens**|Xiaoyan Zhang et.al.|[2602.07564](http://arxiv.org/abs/2602.07564)|
+|**2026-02-07**|**FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation**|Guandong Li et.al.|[2602.07554](http://arxiv.org/abs/2602.07554)|
+|**2026-02-06**|**CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation**|Kaiyi Huang et.al.|[2602.06959](http://arxiv.org/abs/2602.06959)|
+|**2026-02-06**|**Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers**|Yuxuan Yao et.al.|[2602.06886](http://arxiv.org/abs/2602.06886)|
+|**2026-02-06**|**NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices**|Ruchika Chavhan et.al.|[2602.06879](http://arxiv.org/abs/2602.06879)|
+|**2026-02-06**|**AEGPO: Adaptive Entropy-Guided Policy Optimization for Diffusion Models**|Yuming Li et.al.|[2602.06825](http://arxiv.org/abs/2602.06825)|
+|**2026-02-06**|**RAIGen: Rare Attribute Identification in Text-to-Image Generative Models**|Silpa Vadakkeeveetil Sreelatha et.al.|[2602.06806](http://arxiv.org/abs/2602.06806)|
 |**2026-02-04**|**Adaptive Prompt Elicitation for Text-to-Image Generation**|Xinyi Wen et.al.|[2602.04713](http://arxiv.org/abs/2602.04713)|
 |**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|
 |**2026-02-04**|**Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design**|Jaemoo Choi et.al.|[2602.04663](http://arxiv.org/abs/2602.04663)|
@@ -588,7 +614,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
