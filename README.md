@@ -1,4 +1,4 @@
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|
+|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|
+|**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|
+|**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|
+|**2026-02-12**|**A Stochastic Cluster Expansion for Electronic Correlation in Large Systems**|Annabelle Canestraight et.al.|[2602.12254](http://arxiv.org/abs/2602.12254)|
+|**2026-02-12**|**VIRENA: Virtual Arena for Research, Education, and Democratic Innovation**|Emma Hoes et.al.|[2602.12207](http://arxiv.org/abs/2602.12207)|
+|**2026-02-12**|**Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education**|Mohamed Huti et.al.|[2602.12196](http://arxiv.org/abs/2602.12196)|
+|**2026-02-12**|**MalTool: Malicious Tool Attacks on LLM Agents**|Yuepeng Hu et.al.|[2602.12194](http://arxiv.org/abs/2602.12194)|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159](http://arxiv.org/abs/2602.12159)|
+|**2026-02-12**|**On the Adoption of AI Coding Agents in Open-source Android and iOS Development**|Muhammad Ahmad Khan et.al.|[2602.12144](http://arxiv.org/abs/2602.12144)|
 |**2026-02-09**|**A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents**|Raghu Arghal et.al.|[2602.08964](http://arxiv.org/abs/2602.08964)|
 |**2026-02-09**|**Digital Twin and Agentic AI for Wild Fire Disaster Management: Intelligent Virtual Situation Room**|Mohammad Morsali et.al.|[2602.08949](http://arxiv.org/abs/2602.08949)|
 |**2026-02-09**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al.|[2602.08868](http://arxiv.org/abs/2602.08868)|
@@ -265,12 +275,18 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-12**|**It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks**|Zhongzheng Qiao et.al.|[2602.12147](http://arxiv.org/abs/2602.12147)|
+|**2026-02-12**|**Commencing-Student Enrolment Forecasting Under Data Sparsity with Time Series Foundation Models**|Jittarin Jetwiriyanon et.al.|[2602.12120](http://arxiv.org/abs/2602.12120)|
+|**2026-02-12**|**TS-Memory: Plug-and-Play Memory for Time Series Foundation Models**|Sisuo Lyu et.al.|[2602.11550](http://arxiv.org/abs/2602.11550)|
+|**2026-02-11**|**Time Series Foundation Models for Energy Load Forecasting on Consumer Hardware: A Multi-Dimensional Zero-Shot Benchmark**|Luigi Simeone et.al.|[2602.10848](http://arxiv.org/abs/2602.10848)|
+|**2026-02-11**|**LightGTS-Cov: Covariate-Enhanced Time Series Forecasting**|Yong Shang et.al.|[2602.10412](http://arxiv.org/abs/2602.10412)|
+|**2026-02-09**|**DMamba: Decomposition-enhanced Mamba for Time Series Forecasting**|Ruxuan Chen et.al.|[2602.09081](http://arxiv.org/abs/2602.09081)|
 |**2026-02-06**|**Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models**|Yunshi Wen et.al.|[2602.06909](http://arxiv.org/abs/2602.06909)|
 |**2026-02-06**|**T-STAR: A Context-Aware Transformer Framework for Short-Term Probabilistic Demand Forecasting in Dock-Based Shared Micro-Mobility**|Jingyi Cheng et.al.|[2602.06866](http://arxiv.org/abs/2602.06866)|
 |**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|Peng Chen et.al.|[2602.05646](http://arxiv.org/abs/2602.05646)|
@@ -407,15 +423,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-12**|**CSEval: A Framework for Evaluating Clinical Semantics in Text-to-Image Generation**|Robert Cronshaw et.al.|[2602.12004](http://arxiv.org/abs/2602.12004)|
+|**2026-02-11**|**Dynamic Frequency Modulation for Controllable Text-driven Image Generation**|Tiandong Shi et.al.|[2602.10662](http://arxiv.org/abs/2602.10662)|
+|**2026-02-11**|**RealHD: A High-Quality Dataset for Robust Detection of State-of-the-Art AI-Generated Images**|Hanzhe Yu et.al.|[2602.10546](http://arxiv.org/abs/2602.10546)|
+|**2026-02-09**|**A Systematic Review on Data-Driven Brain Deformation Modeling for Image-Guided Neurosurgery**|Tiago Assis et.al.|[2602.10155](http://arxiv.org/abs/2602.10155)|
+|**2026-02-10**|**Where Do Images Come From? Analyzing Captions to Geographically Profile Datasets**|Abhipsa Basu et.al.|[2602.09775](http://arxiv.org/abs/2602.09775)|
+|**2026-02-10**|**MILE-RefHumEval: A Reference-Free, Multi-Independent LLM Framework for Human-Aligned Evaluation**|Nalin Srun et.al.|[2602.09624](http://arxiv.org/abs/2602.09624)|
+|**2026-02-10**|**Tele-Omni: a Unified Multimodal Framework for Video Generation and Editing**|Jialun Liu et.al.|[2602.09609](http://arxiv.org/abs/2602.09609)|
 |**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|
 |**2026-02-09**|**Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing**|Hao Yang et.al.|[2602.08820](http://arxiv.org/abs/2602.08820)|
-|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|
+|**2026-02-10**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|
 |**2026-02-07**|**SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens**|Xiaoyan Zhang et.al.|[2602.07564](http://arxiv.org/abs/2602.07564)|
 |**2026-02-07**|**FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation**|Guandong Li et.al.|[2602.07554](http://arxiv.org/abs/2602.07554)|
 |**2026-02-06**|**CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation**|Kaiyi Huang et.al.|[2602.06959](http://arxiv.org/abs/2602.06959)|
@@ -614,7 +637,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
