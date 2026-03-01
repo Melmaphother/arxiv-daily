@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|
+|**2026-02-26**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)|
+|**2026-02-26**|**AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning**|Yutong Wang et.al.|[2602.23258](http://arxiv.org/abs/2602.23258)|
+|**2026-02-26**|**MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction**|Yizhi Li et.al.|[2602.23228](http://arxiv.org/abs/2602.23228)|
+|**2026-02-26**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|
+|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|
+|**2026-02-26**|**ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering**|Elzo Brito dos Santos Filho et.al.|[2602.23193](http://arxiv.org/abs/2602.23193)|
+|**2026-02-26**|**Approximately Solving Continuous-Time Mean Field Games with Finite State Spaces**|Yannick Eich et.al.|[2602.23174](http://arxiv.org/abs/2602.23174)|
+|**2026-02-26**|**AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios**|Zhaochen Su et.al.|[2602.23166](http://arxiv.org/abs/2602.23166)|
+|**2026-02-26**|**PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering**|Junkai Lu et.al.|[2602.23161](http://arxiv.org/abs/2602.23161)|
 |**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|
 |**2026-02-24**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|Dengjia Zhang et.al.|[2602.21158](http://arxiv.org/abs/2602.21158)|
 |**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Quanxin Shou et.al.|[2602.21157](http://arxiv.org/abs/2602.21157)|
@@ -284,6 +294,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-02-25**|**DualWeaver: Synergistic Feature Weaving Surrogates for Multivariate Forecasting with Univariate Time Series Foundation Models**|Jinpeng Li et.al.|[2602.22066](http://arxiv.org/abs/2602.22066)|
+|**2026-02-25**|**TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts**|Jiafeng Lin et.al.|[2602.21693](http://arxiv.org/abs/2602.21693)|
 |**2026-02-23**|**In-context Pre-trained Time-Series Foundation Models adapt to Unseen Tasks**|Shangqing Xu et.al.|[2602.20307](http://arxiv.org/abs/2602.20307)|
 |**2026-02-22**|**Learning from Complexity: Exploring Dynamic Sample Pruning of Spatio-Temporal Training**|Wei Chen et.al.|[2602.19113](http://arxiv.org/abs/2602.19113)|
 |**2026-02-22**|**TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection**|Hui He et.al.|[2602.19068](http://arxiv.org/abs/2602.19068)|
@@ -440,8 +452,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
-|**2026-02-24**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)|
-|**2026-02-24**|**TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering**|Hanshen Zhu et.al.|[2602.20903](http://arxiv.org/abs/2602.20903)|
+|**2026-02-26**|**SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation**|Vaibhav Agrawal et.al.|[2602.23359](http://arxiv.org/abs/2602.23359)|
+|**2026-02-26**|**MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction**|Yizhi Li et.al.|[2602.23228](http://arxiv.org/abs/2602.23228)|
+|**2026-02-26**|**No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings**|Joonsung Jeon et.al.|[2602.22689](http://arxiv.org/abs/2602.22689)|
+|**2026-02-26**|**Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation**|Dian Xie et.al.|[2602.22570](http://arxiv.org/abs/2602.22570)|
+|**2026-02-25**|**CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning**|Zhijiang Tang et.al.|[2602.21655](http://arxiv.org/abs/2602.21655)|
+|**2026-02-24**|**Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking**|Shengqiong Wu et.al.|[2602.21435](http://arxiv.org/abs/2602.21435)|
+|**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)|
+|**2026-02-26**|**TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering**|Hanshen Zhu et.al.|[2602.20903](http://arxiv.org/abs/2602.20903)|
 |**2026-02-24**|**An interactive enhanced driving dataset for autonomous driving**|Haojie Feng et.al.|[2602.20575](http://arxiv.org/abs/2602.20575)|
 |**2026-02-23**|**Closing the gap in multimodal medical representation alignment**|Eleonora Grassucci et.al.|[2602.20046](http://arxiv.org/abs/2602.20046)|
 |**2026-02-24**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Fan Yang et.al.|[2602.19768](http://arxiv.org/abs/2602.19768)|
