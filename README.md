@@ -1,4 +1,4 @@
-## Updated on 2026.03.02
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-04**|**$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**|Quan Shi et.al.|[2603.04370](http://arxiv.org/abs/2603.04370)|
+|**2026-03-04**|**Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks**|Haoyu Liu et.al.|[2603.04364](http://arxiv.org/abs/2603.04364)|
+|**2026-03-04**|**A Soft Robotic Demonstration in the Stratosphere**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|
+|**2026-03-04**|**LabelBuddy: An Open Source Music and Audio Language Annotation Tagging Tool Using AI Assistance**|Ioannis Prokopiou et.al.|[2603.04293](http://arxiv.org/abs/2603.04293)|
+|**2026-03-04**|**Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory**|Zhenting Wang et.al.|[2603.04257](http://arxiv.org/abs/2603.04257)|
+|**2026-03-04**|**CodeTaste: Can LLMs Generate Human-Level Code Refactorings?**|Alex Thillen et.al.|[2603.04177](http://arxiv.org/abs/2603.04177)|
+|**2026-03-04**|**A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series**|Davide Gabrielli et.al.|[2603.04142](http://arxiv.org/abs/2603.04142)|
+|**2026-03-04**|**Monitoring Emergent Reward Hacking During Generation via Internal Activations**|Patrick Wilhelm et.al.|[2603.04069](http://arxiv.org/abs/2603.04069)|
+|**2026-03-04**|**Right in Time: Reactive Reasoning in Regulated Traffic Spaces**|Simon Kohaut et.al.|[2603.03977](http://arxiv.org/abs/2603.03977)|
+|**2026-03-04**|**Phi-4-reasoning-vision-15B Technical Report**|Jyoti Aneja et.al.|[2603.03975](http://arxiv.org/abs/2603.03975)|
 |**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|
 |**2026-02-26**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)|
 |**2026-02-26**|**AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning**|Yutong Wang et.al.|[2602.23258](http://arxiv.org/abs/2602.23258)|
@@ -295,16 +305,21 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-03**|**Adapting Time Series Foundation Models through Data Mixtures**|Thomas L. Lee et.al.|[2603.02840](http://arxiv.org/abs/2603.02840)|
+|**2026-03-02**|**UTICA: Multi-Objective Self-Distllation Foundation Model Pretraining for Time Series Classification**|Yessin Moakher et.al.|[2603.01348](http://arxiv.org/abs/2603.01348)|
+|**2026-02-28**|**Adapt Data to Model: Adaptive Transformation Optimization for Domain-shared Time Series Foundation Models**|Yunzhong Qiu et.al.|[2603.00629](http://arxiv.org/abs/2603.00629)|
+|**2026-02-27**|**Time Series Foundation Models as Strong Baselines in Transportation Forecasting: A Large-Scale Benchmark Analysis**|Javier Pulido et.al.|[2602.24238](http://arxiv.org/abs/2602.24238)|
+|**2026-02-27**|**Selective Denoising Diffusion Model for Time Series Anomaly Detection**|Kohei Obata et.al.|[2602.23662](http://arxiv.org/abs/2602.23662)|
 |**2026-02-25**|**DualWeaver: Synergistic Feature Weaving Surrogates for Multivariate Forecasting with Univariate Time Series Foundation Models**|Jinpeng Li et.al.|[2602.22066](http://arxiv.org/abs/2602.22066)|
 |**2026-02-25**|**TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts**|Jiafeng Lin et.al.|[2602.21693](http://arxiv.org/abs/2602.21693)|
 |**2026-02-23**|**In-context Pre-trained Time-Series Foundation Models adapt to Unseen Tasks**|Shangqing Xu et.al.|[2602.20307](http://arxiv.org/abs/2602.20307)|
-|**2026-02-22**|**Learning from Complexity: Exploring Dynamic Sample Pruning of Spatio-Temporal Training**|Wei Chen et.al.|[2602.19113](http://arxiv.org/abs/2602.19113)|
+|**2026-03-02**|**Learning from Complexity: Exploring Dynamic Sample Pruning of Spatio-Temporal Training**|Wei Chen et.al.|[2602.19113](http://arxiv.org/abs/2602.19113)|
 |**2026-02-22**|**TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection**|Hui He et.al.|[2602.19068](http://arxiv.org/abs/2602.19068)|
 |**2026-02-19**|**MantisV2: Closing the Zero-Shot Gap in Time Series Classification with Synthetic Data and Test-Time Strategies**|Vasilii Feofanov et.al.|[2602.17868](http://arxiv.org/abs/2602.17868)|
 |**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|
@@ -455,12 +470,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-04**|**Dual-Solver: A Generalized ODE Solver for Diffusion Models with Dual Prediction**|Soochul Park et.al.|[2603.03973](http://arxiv.org/abs/2603.03973)|
+|**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505](http://arxiv.org/abs/2603.03505)|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|
+|**2026-03-03**|**BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation**|Zihao Zhu et.al.|[2603.02816](http://arxiv.org/abs/2603.02816)|
+|**2026-03-03**|**DREAM: Where Visual Understanding Meets Text-to-Image Generation**|Chao Li et.al.|[2603.02667](http://arxiv.org/abs/2603.02667)|
+|**2026-03-02**|**Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning**|Haonan Jia et.al.|[2603.01696](http://arxiv.org/abs/2603.01696)|
+|**2026-03-02**|**Retrieval, Refinement, and Ranking for Text-to-Video Generation via Prompt Optimization and Test-Time Scaling**|Zillur Rahman et.al.|[2603.01509](http://arxiv.org/abs/2603.01509)|
+|**2026-03-01**|**Unified Vision-Language Modeling via Concept Space Alignment**|Yifu Qiu et.al.|[2603.01096](http://arxiv.org/abs/2603.01096)|
+|**2026-03-01**|**LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model**|Zebin You et.al.|[2603.01068](http://arxiv.org/abs/2603.01068)|
+|**2026-03-01**|**MMCOMET: A Large-Scale Multimodal Commonsense Knowledge Graph for Contextual Reasoning**|Eileen Wang et.al.|[2603.01055](http://arxiv.org/abs/2603.01055)|
 |**2026-02-26**|**SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation**|Vaibhav Agrawal et.al.|[2602.23359](http://arxiv.org/abs/2602.23359)|
 |**2026-02-26**|**MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction**|Yizhi Li et.al.|[2602.23228](http://arxiv.org/abs/2602.23228)|
 |**2026-02-26**|**No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings**|Joonsung Jeon et.al.|[2602.22689](http://arxiv.org/abs/2602.22689)|
@@ -685,7 +710,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
