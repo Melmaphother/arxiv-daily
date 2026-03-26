@@ -1,4 +1,4 @@
-## Updated on 2026.03.23
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-25**|**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**|Yunzhe Wang et.al.|[2603.24329](http://arxiv.org/abs/2603.24329)|
+|**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328](http://arxiv.org/abs/2603.24328)|
+|**2026-03-25**|**Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning**|Dogan Urgun et.al.|[2603.24324](http://arxiv.org/abs/2603.24324)|
+|**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Tommaso Galliena et.al.|[2603.24257](http://arxiv.org/abs/2603.24257)|
+|**2026-03-25**|**Environment-Grounded Multi-Agent Workflow for Autonomous Penetration Testing**|Michael Somma et.al.|[2603.24221](http://arxiv.org/abs/2603.24221)|
+|**2026-03-25**|**Where Do Your Citations Come From? Citation-Constellation: A Free, Open-Source, No-Code, and Auditable Tool for Citation Network Decomposition with Complementary BARON and HEROCON Scores**|Mahbub Ul Alam et.al.|[2603.24216](http://arxiv.org/abs/2603.24216)|
+|**2026-03-25**|**Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search**|Yulin Shen et.al.|[2603.24203](http://arxiv.org/abs/2603.24203)|
+|**2026-03-25**|**Enhanced Mycelium of Thought (EMoT): A Bio-Inspired Hierarchical Reasoning Architecture with Strategic Dormancy and Mnemonic Encoding**|Florian Odi Stummer et.al.|[2603.24065](http://arxiv.org/abs/2603.24065)|
+|**2026-03-25**|**FinToolSyn: A forward synthesis Framework for Financial Tool-Use Dialogue Data with Dynamic Tool Retrieval**|Caishuang Huang et.al.|[2603.24051](http://arxiv.org/abs/2603.24051)|
+|**2026-03-25**|**A^3: Towards Advertising Aesthetic Assessment**|Kaiyuan Ji et.al.|[2603.24037](http://arxiv.org/abs/2603.24037)|
 |**2026-03-19**|**FASTER: Rethinking Real-Time Flow VLAs**|Yuxiang Lu et.al.|[2603.19199](http://arxiv.org/abs/2603.19199)|
 |**2026-03-19**|**From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models**|Zhuofan Li et.al.|[2603.19131](http://arxiv.org/abs/2603.19131)|
 |**2026-03-19**|**How Uncertainty Estimation Scales with Sampling in Reasoning Models**|Maksym Del et.al.|[2603.19118](http://arxiv.org/abs/2603.19118)|
@@ -325,12 +335,17 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-25**|**Forecasting with Guidance: Representation-Level Supervision for Time Series Forecasting**|Jiacheng Wang et.al.|[2603.24262](http://arxiv.org/abs/2603.24262)|
+|**2026-03-25**|**GARP-EFM: Improving Foundation Models with Revealed Preference Structure**|Victor H. Aguiar et.al.|[2603.23993](http://arxiv.org/abs/2603.23993)|
+|**2026-03-25**|**Can we generate portable representations for clinical time series data using LLMs?**|Zongliang Ji et.al.|[2603.23987](http://arxiv.org/abs/2603.23987)|
+|**2026-03-23**|**A Foundation Model for Instruction-Conditioned In-Context Time Series Tasks**|Anish Saha et.al.|[2603.22586](http://arxiv.org/abs/2603.22586)|
+|**2026-03-23**|**CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter**|Hanyin Cheng et.al.|[2603.21828](http://arxiv.org/abs/2603.21828)|
 |**2026-03-18**|**TimeAPN: Adaptive Amplitude-Phase Non-Stationarity Normalization for Time Series Forecasting**|Yue Hu et.al.|[2603.17436](http://arxiv.org/abs/2603.17436)|
 |**2026-03-17**|**Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting**|Yu-Chen Den et.al.|[2603.16985](http://arxiv.org/abs/2603.16985)|
 |**2026-03-17**|**Bridging the High-Frequency Data Gap: A Millisecond-Resolution Network Dataset for Advancing Time Series Foundation Models**|Subina Khanal et.al.|[2603.16497](http://arxiv.org/abs/2603.16497)|
@@ -505,12 +520,22 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-25**|**Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection**|Adhemar de Senneville et.al.|[2603.24181](http://arxiv.org/abs/2603.24181)|
+|**2026-03-25**|**LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation**|Ryugo Morita et.al.|[2603.24086](http://arxiv.org/abs/2603.24086)|
+|**2026-03-24**|**Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition**|Lucas H. Ueda et.al.|[2603.23673](http://arxiv.org/abs/2603.23673)|
+|**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|
+|**2026-03-25**|**DAK-UCB: Diversity-Aware Prompt Routing for LLMs and Generative Models**|Donya Jafari et.al.|[2603.23140](http://arxiv.org/abs/2603.23140)|
+|**2026-03-24**|**Caption Generation for Dongba Paintings via Prompt Learning and Semantic Fusion**|Shuangwu Qian et.al.|[2603.22946](http://arxiv.org/abs/2603.22946)|
+|**2026-03-24**|**PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference**|Qirui Wang et.al.|[2603.22943](http://arxiv.org/abs/2603.22943)|
+|**2026-03-24**|**KARMA: Knowledge-Action Regularized Multimodal Alignment for Personalized Search at Taobao**|Zhi Sun et.al.|[2603.22779](http://arxiv.org/abs/2603.22779)|
+|**2026-03-23**|**The Dual Mechanisms of Spatial Reasoning in Vision-Language Models**|Kelly Cui et.al.|[2603.22278](http://arxiv.org/abs/2603.22278)|
+|**2026-03-23**|**SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation**|Sashuai Zhou et.al.|[2603.22228](http://arxiv.org/abs/2603.22228)|
 |**2026-03-19**|**RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing**|Yue Gong et.al.|[2603.19206](http://arxiv.org/abs/2603.19206)|
 |**2026-03-19**|**Agentic Flow Steering and Parallel Rollout Search for Spatially Grounded Text-to-Image Generation**|Ping Chen et.al.|[2603.18627](http://arxiv.org/abs/2603.18627)|
 |**2026-03-19**|**MedQ-UNI: Toward Unified Medical Image Quality Assessment and Restoration via Vision-Language Modeling**|Jiyao Liu et.al.|[2603.18465](http://arxiv.org/abs/2603.18465)|
@@ -765,7 +790,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
