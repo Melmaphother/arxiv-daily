@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-31**|**CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing**|Chathurangi Shyalika et.al.|[2603.29755](http://arxiv.org/abs/2603.29755)|
+|**2026-03-31**|**BotVerse: Real-Time Event-Driven Simulation of Social Agents**|Edoardo Allegrini et.al.|[2603.29741](http://arxiv.org/abs/2603.29741)|
+|**2026-03-31**|**Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design**|Latent Labs Team et.al.|[2603.29727](http://arxiv.org/abs/2603.29727)|
+|**2026-03-31**|**Reinforced Reasoning for End-to-End Retrosynthetic Planning**|Chenyang Zuo et.al.|[2603.29723](http://arxiv.org/abs/2603.29723)|
+|**2026-03-31**|**View-oriented Conversation Compiler for Agent Trace Analysis**|Lvmin Zhang et.al.|[2603.29678](http://arxiv.org/abs/2603.29678)|
+|**2026-03-31**|**Near-Miss: Latent Policy Failure Detection in Agentic Workflows**|Ella Rabinovich et.al.|[2603.29665](http://arxiv.org/abs/2603.29665)|
+|**2026-03-31**|**6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management**|Jiao Chen et.al.|[2603.29656](http://arxiv.org/abs/2603.29656)|
+|**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|
+|**2026-03-31**|**Distributed Predictive Control Barrier Functions: Towards Scalable Safety Certification in Modular Multi-Agent Systems**|Jonas Ohnemus et.al.|[2603.29560](http://arxiv.org/abs/2603.29560)|
+|**2026-03-31**|**Can LLM Agents Identify Spoken Dialects like a Linguist?**|Tobias Bystrich et.al.|[2603.29541](http://arxiv.org/abs/2603.29541)|
 |**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|
 |**2026-03-29**|**Sci-Mind: Cognitively-Inspired Adversarial Debate for Autonomous Mathematical Modeling**|Ruiying Sun et.al.|[2603.27584](http://arxiv.org/abs/2603.27584)|
 |**2026-03-29**|**LLM-Enabled Low-Altitude UAV Natural Language Navigation via Signal Temporal Logic Specification Translation and Repair**|Yuqi Ping et.al.|[2603.27583](http://arxiv.org/abs/2603.27583)|
@@ -345,7 +355,7 @@
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Time-Series Forecasting
 
@@ -530,15 +540,19 @@
 |**2025-10-02**|**Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility**|Annan Yu et.al.|[2510.03358](http://arxiv.org/abs/2510.03358)|
 |**2025-10-02**|**Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models**|Ethan Baron et.al.|[2510.02224](http://arxiv.org/abs/2510.02224)|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Unified Multi-Modal Models
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-30**|**XSPA: Crafting Imperceptible X-Shaped Sparse Adversarial Perturbations for Transferable Attacks on VLMs**|Chengyin Hu et.al.|[2603.28568](http://arxiv.org/abs/2603.28568)|
+|**2026-03-30**|**AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**|Milton Zhou et.al.|[2603.28366](http://arxiv.org/abs/2603.28366)|
+|**2026-03-30**|**MathGen: Revealing the Illusion of Mathematical Competence through Text-to-Image Generation**|Ruiyao Liu et.al.|[2603.27959](http://arxiv.org/abs/2603.27959)|
+|**2026-03-29**|**When Surfaces Lie: Exploiting Wrinkle-Induced Attention Shift to Attack Vision-Language Models**|Chengyin Hu et.al.|[2603.27759](http://arxiv.org/abs/2603.27759)|
 |**2026-03-29**|**TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets**|Zhixuan Liu et.al.|[2603.27520](http://arxiv.org/abs/2603.27520)|
 |**2026-03-28**|**Let Triggers Control: Frequency-Aware Dropout for Effective Token Control**|Junyoung Koh et.al.|[2603.27199](http://arxiv.org/abs/2603.27199)|
-|**2026-03-27**|**A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models**|Mujtaba Hussain Mirza et.al.|[2603.26984](http://arxiv.org/abs/2603.26984)|
+|**2026-03-31**|**A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models**|Mujtaba Hussain Mirza et.al.|[2603.26984](http://arxiv.org/abs/2603.26984)|
 |**2026-03-27**|**LACON: Training Text-to-Image Model from Uncurated Data**|Zhiyang Liang et.al.|[2603.26866](http://arxiv.org/abs/2603.26866)|
 |**2026-03-27**|**Hybrid Diffusion Model for Breast Ultrasound Image Augmentation**|Farhan Fuad Abir et.al.|[2603.26834](http://arxiv.org/abs/2603.26834)|
 |**2026-03-26**|**The Language of Touch: Translating Vibrations into Text with Dual-Branch Learning**|Jin Chen et.al.|[2603.26804](http://arxiv.org/abs/2603.26804)|
@@ -810,7 +824,7 @@
 |**2025-10-07**|**MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation**|Weihua Zheng et.al.|[2510.08608](http://arxiv.org/abs/2510.08608)|
 |**2025-10-07**|**Continual Learning for Image Captioning through Improved Image-Text Alignment**|Bertram Taetz et.al.|[2510.06009](http://arxiv.org/abs/2510.06009)|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Melmaphother/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Melmaphother/arxiv-daily/graphs/contributors
