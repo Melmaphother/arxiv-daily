@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM Agent
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|
+|**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|
+|**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)|
+|**2026-04-09**|**ClawBench: Can AI Agents Complete Everyday Online Tasks?**|Yuxuan Zhang et.al.|[2604.08523](http://arxiv.org/abs/2604.08523)|
+|**2026-04-09**|**MolmoWeb: Open Visual Web Agent and Open Data for the Open Web**|Tanmay Gupta et.al.|[2604.08516](http://arxiv.org/abs/2604.08516)|
+|**2026-04-09**|**Density-Driven Optimal Control: Convergence Guarantees for Stochastic LTI Multi-Agent Systems**|Kooktae Lee et.al.|[2604.08495](http://arxiv.org/abs/2604.08495)|
+|**2026-04-09**|**Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery**|Yifang Wang et.al.|[2604.08491](http://arxiv.org/abs/2604.08491)|
+|**2026-04-09**|**Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization**|Sai Srinivas Kancheti et.al.|[2604.08476](http://arxiv.org/abs/2604.08476)|
+|**2026-04-09**|**Learning Who Disagrees: Demographic Importance Weighting for Modeling Annotator Distributions with DiADEM**|Samay U. Shetty et.al.|[2604.08425](http://arxiv.org/abs/2604.08425)|
+|**2026-04-09**|**Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain**|Hanzhi Liu et.al.|[2604.08407](http://arxiv.org/abs/2604.08407)|
 |**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|
 |**2026-04-03**|**InCoder-32B-Thinking: Industrial Code World Model for Thinking**|Jian Yang et.al.|[2604.03144](http://arxiv.org/abs/2604.03144)|
 |**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|
@@ -364,6 +374,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-08**|**Bi-level Heterogeneous Learning for Time Series Foundation Models: A Federated Learning Approach**|Shengchao Chen et.al.|[2604.06727](http://arxiv.org/abs/2604.06727)|
+|**2026-04-06**|**Discrete Prototypical Memories for Federated Time Series Foundation Models**|Liwei Deng et.al.|[2604.04475](http://arxiv.org/abs/2604.04475)|
+|**2026-04-05**|**A Family of Open Time-Series Foundation Models for the Radio Access Network**|Ioannis Panitsas et.al.|[2604.04271](http://arxiv.org/abs/2604.04271)|
 |**2026-04-01**|**DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting**|Xiang Ao et.al.|[2604.01261](http://arxiv.org/abs/2604.01261)|
 |**2026-03-25**|**Forecasting with Guidance: Representation-Level Supervision for Time Series Forecasting**|Jiacheng Wang et.al.|[2603.24262](http://arxiv.org/abs/2603.24262)|
 |**2026-03-25**|**GARP-EFM: Improving Foundation Models with Revealed Preference Structure**|Victor H. Aguiar et.al.|[2603.23993](http://arxiv.org/abs/2603.23993)|
@@ -548,6 +561,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF |
 |:---------|:-----------------------|:---------|:------|
+|**2026-04-09**|**LegoDiffusion: Micro-Serving Text-to-Image Diffusion Workflows**|Lingyun Yang et.al.|[2604.08123](http://arxiv.org/abs/2604.08123)|
+|**2026-04-09**|**LINE: LLM-based Iterative Neuron Explanations for Vision Models**|Vladimir Zaigrajew et.al.|[2604.08039](http://arxiv.org/abs/2604.08039)|
+|**2026-04-08**|**Personalizing Text-to-Image Generation to Individual Taste**|Anne-Sofie Maerten et.al.|[2604.07427](http://arxiv.org/abs/2604.07427)|
+|**2026-04-08**|**Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images**|Yuechen Jiang et.al.|[2604.07338](http://arxiv.org/abs/2604.07338)|
+|**2026-04-08**|**Not all tokens contribute equally to diffusion learning**|Guoqing Zhang et.al.|[2604.07026](http://arxiv.org/abs/2604.07026)|
+|**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|
+|**2026-04-07**|**PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer**|David Picard et.al.|[2604.06129](http://arxiv.org/abs/2604.06129)|
+|**2026-04-07**|**Controllable Image Generation with Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2604.05730](http://arxiv.org/abs/2604.05730)|
+|**2026-04-07**|**DetailVerifyBench: A Benchmark for Dense Hallucination Localization in Long Image Captions**|Xinran Wang et.al.|[2604.05623](http://arxiv.org/abs/2604.05623)|
 |**2026-04-03**|**Visual Instruction-Finetuned Language Model for Versatile Brain MR Image Tasks**|Jonghun Kim et.al.|[2604.02748](http://arxiv.org/abs/2604.02748)|
 |**2026-04-03**|**Foundation Models Defining A New Era In Sensor-based Human Activity Recognition: A Survey And Outlook**|Sizhen Bian et.al.|[2604.02711](http://arxiv.org/abs/2604.02711)|
 |**2026-04-02**|**WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models**|Haiyu Wang et.al.|[2604.02570](http://arxiv.org/abs/2604.02570)|
